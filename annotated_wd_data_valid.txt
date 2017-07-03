@@ -73,7 +73,7 @@ Q1650296	R136	Q7532138	What's an instrumental rock album?
 Q17010554	P175	Q2062519	Which artist made home grown studio sessions
 Q2670550	R40	Q215512	who was merari's father 
 Q2607839	P19	Q4100	what was the place of birth of william des vœux
-Q8019919	P21	('Q6581097',)	What is william wall's gender?
+Q8019919	P21	Q6581097	What is william wall's gender?
 Q4004168	P136	Q49084	what kind of book is a haunted house and other short stories?
 Q587891	P136	Q130232	what kinds of movie is dead man walking in netlix
 Q689658	P57	Q1700561	who directed robin hood
@@ -113,12 +113,12 @@ Q7743788	P136	Q661651	What is the genre of the judy garland show on netflix
 Q1758692	P162	Q721027	who in the world produced busting
 Q43343	R136	Q237615	Who's a musician that plays folk music
 Q73394	P19	Q64	what is the place of birth of gottfried graf von bismarck-schönhausen
-Q7292416	P21	('Q6581097',)	what gender is randy sanders
+Q7292416	P21	Q6581097	what gender is randy sanders
 Q196073	P136	Q9730	What kind of music does lim hyung joo do
 Q814829	P17	Q854	which country is beira lake in 
 Q1344	R136	Q2417370	Who is an opera artist?
 Q3417405	P57	Q457269	who directed raffles
-Q12967792	P21	('Q6581097',)	what gender is mario o'hara
+Q12967792	P21	Q6581097	what gender is mario o'hara
 Q57339	P264	Q5323512	which label is don mclean signed under
 Q698224	P136	Q205560	what kind of music does coldcut make?
 Q2012622	P1303	Q510487	tommy peoples plays what instrument
@@ -135,14 +135,14 @@ Q4733677	P136	Q11366	what genre of music is the album almanac live 2004
 Q2056556	P495	Q30	what is the country of origin of the tv program gimme a break!
 Q1821318	P50	Q709751	who is the author of the poseidon adventure?
 Q2055260	P421	Q2086913	which time zone is cyrus in
-Q5924262	P21	('Q6581097',)	What is the gender of hsien wu?
+Q5924262	P21	Q6581097	What is the gender of hsien wu?
 Q83375	P19	Q13678	where was empedocles born
 Q2176931	P136	Q484641	what kind of music does russell javors make 
 Q223359	P136	Q319221	what type of film is rio
 Q17150955	P175	Q2580222	What artist made the album planetary unknown
 Q1910764	P421	Q2086913	What's the time zone in mount pleasant township
 Q11865151	P27	Q33	what country is ismo kallio from
-Q2347478	P21	('Q6581097',)	what gender is steven blaney?
+Q2347478	P21	Q6581097	what gender is steven blaney?
 Q1564543	P509	Q147778	what did chris von der ahe die from?
 Q2490682	P264	Q2142601	What label is bill curbishley on?
 Q1054574	R136	Q7913965	what's an example of a romance film
@@ -183,7 +183,7 @@ Q16204593	P106	Q488205	What is matt duke's profession
 Q3988410	P136	Q3071	What genre is the mr. t experience
 Q44935	P58	Q37876	who wrote new york, i love you
 Q3147032	P136	Q43343	what type of music is i ain't marching anymore considered
-Q706358	P21	('Q6581097',)	what is the gender of james hahn
+Q706358	P21	Q6581097	what is the gender of james hahn
 Q672421	R19	Q11734	who was born in texingtal
 Q7699315	P136	Q11366	What type of music does the ten songs in the key of betrayal album contain?
 Q5125939	P149	Q1513688	what style of architecture is the clara barkley dorr house?
@@ -237,7 +237,7 @@ Q319308	R50	Q6822966	what was written by douglas hofstadter
 Q273354	P1303	Q5994	what instrument does  dana glover play
 Q6683	P710	Q431576	Who was involved in mexican–american war
 Q3206946	P136	Q506240	what kind of movie is the beast
-Q5488318	P21	('Q6581097',)	What is the gender of frank mcintyre?
+Q5488318	P21	Q6581097	What is the gender of frank mcintyre?
 Q5462522	P106	Q10871364	Who is floyd ritter?
 Q5088608	P19	Q1355	where was chaya singh given birth
 Q898348	P136	Q130232	What kind of film is rossana?
@@ -252,10 +252,10 @@ Q6512555	P136	Q9759	What genre is ledbetter heights
 Q38903	R264	Q1143664	what artists are signed to universal music group
 Q3230693	P136	Q157443	what sort of show is green acres
 Q2605094	P136	Q377910	What type of music is the album hours?
-Q5495347	P21	('Q6581097',)	which gender is fred hahn
+Q5495347	P21	Q6581097	which gender is fred hahn
 Q459290	R136	Q1128756	how did indie film die
 Q3053923	P136	Q132311	what is the genre of the magic
-Q3375266	P21	('Q6581097',)	What is matt gentry's gender?
+Q3375266	P21	Q6581097	What is matt gentry's gender?
 Q3545474	P21	Q6581072	What is Michiyo Okusu's gender?
 Q5237018	P136	Q37073	what type of music did david mackay make?
 Q4812500	P136	Q132311	What is the genre of at the edge of the world
@@ -365,7 +365,7 @@ Q123097	P272	Q466459	which production company helped film maniac cop 2?
 Q586776	P27	Q30	What nation is guy endore from?
 Q202866	R136	Q1121222	what animated cartoon was about ducks?
 Q132311	R136	Q164963	what is a film in the fantasy genre?
-Q325814	P21	('Q6581097',)	What is the gender of matt winston?
+Q325814	P21	Q6581097	What is the gender of matt winston?
 Q3907268	P364	Q1860	what is the main language of police surgeon
 Q5195319	R112	Q5500621	what organizations are ted henter the founder of
 Q25319	R19	Q441291	who was born in aarhus
@@ -449,7 +449,7 @@ Q5246566	P19	Q5092	which city in the east coast was dean wurzberger born
 Q8023980	P136	Q11425	what kind of movie is wind in the willows
 Q59423	P136	Q142	what is the netflix genre of sex is comedy
 Q7612070	P413	Q1142885	Which baseball position did steve brye play?
-Q937220	P21	('Q6581097',)	what gender is daniel mauch
+Q937220	P21	Q6581097	what gender is daniel mauch
 Q3180154	P172	Q49085	what ethnicity does joe phillips identify as?
 Q715265	P136	Q1428637	what type of performance-based poetry is performed by wesley willis
 Q7759348	P136	Q183504	The album the rainwater lp is what type of musical genre
@@ -467,7 +467,7 @@ Q7293535	P175	Q1161663	who is the artist for the album rant 'n rave with the str
 Q2558558	P136	Q130232	What type of film is anastasia: the mystery of anna
 Q16012006	P21	Q6581072	What gender is polly ward?
 Q1756560	P136	Q7168625	Which netflix genre is withnail and i from
-Q4707240	P21	('Q6581097',)	what is alan marks's gender?
+Q4707240	P21	Q6581097	what is alan marks's gender?
 Q338366	P607	Q254106	what war was michael seymour involved in
 Q643780	R177	Q5910164	Which bridge crossed the monongahela river?
 Q4942373	P136	Q43343	In what genre is bonnie koloc's music?
@@ -476,14 +476,14 @@ Q40026	R162	Q3139644	which movie was produced by sylvester stallone
 Q433460	P19	Q408	where was sylvia lance harper born 
 Q34217	R19	Q4966693	Who was born in oxford
 Q16249496	P136	Q226730	What type of genre is cornered?
-Q7144049	P21	('Q6581097',)	What is pat studstill's gender
+Q7144049	P21	Q6581097	What is pat studstill's gender
 Q79202	R272	Q171582	what films were produced under new line cinema
 Q507853	P138	Q590644	who was named after warren county
 Q2382842	P19	Q170446	where was the place of birth of panteleimon kulish
 Q6270969	P19	Q1183	Which country was luis lópez nieves born in
 Q16989340	P50	Q449797	Who wrote the poisoners
 Q7576732	P170	Q193300	who is the creator of astro boy
-Q5212906	P21	('Q6581097',)	is damone johnson a male or female
+Q5212906	P21	Q6581097	is damone johnson a male or female
 Q188473	R136	Q1702986	What action film debuted in 1990
 Q6650911	P170	Q1273541	Who created the character little mermaid
 Q7772046	P57	Q263324	what known director directed the vanishing duck
@@ -493,7 +493,7 @@ Q4017800	R19	Q960494	Who was born in walkden
 Q449118	R57	Q6411840	what films are directed by brian blessed?
 Q741353	P676	Q470040	which lyricist worked on the composition five minutes more
 Q1128584	P175	Q315417	what artist released the album lee perry meets the mad professor
-Q786963	P21	('Q6581097',)	is aerius of sebaste male or female?
+Q786963	P21	Q6581097	is aerius of sebaste male or female?
 Q5018436	P136	Q838368	what type of movie is calamity anne's vanity?
 Q10499220	P20	Q35715	Where did Mary Ann Aldersey die?
 Q491292	R131	Q2230135	what's a town in watonwan county, minnesota
@@ -541,13 +541,13 @@ Q38903	R264	Q4355747	What's a band signed to universal music group
 Q1600664	P19	Q1794	where in germany was heinz moog born in?
 Q16004	P53	Q58389	henri, grand duke of luxembourg is the monarch of what royal line?
 Q505431	P413	Q622747	what position does michael vick play
-Q1677192	P21	('Q6581097',)	What is jackrosekensington gender?
+Q1677192	P21	Q6581097	What is jackrosekensington gender?
 Q7817841	P413	Q1048902	What positon does baseball player tom timmermann play?
 Q868217	R136	Q3280267	What's a sports game made by midway games
 Q7072065	P136	Q9759	what kind of music is on the album o.k. ken?
 Q3365462	P27	Q16	what is the nationality of parker macdonald?
 Q7207886	P138	Q723956	who was poinsett bridge named after 
-Q3160801	P21	('Q6581097',)	what is jamal sadat's gender
+Q3160801	P21	Q6581097	what is jamal sadat's gender
 Q3182009	P136	Q492264	What is john massari best known for
 Q109225	P27	Q183	what country is horst bollmann from
 Q6261993	P27	Q30	What country is john viener a citizen of
@@ -640,7 +640,7 @@ Q33999	R106	Q7604867	Name an actor.
 Q142636	R175	Q7203458	what album is by the dixie chicks?
 Q242317	R40	Q160311	who are the parents of margaret of england?
 Q4892194	P21	Q6581072	What is the gender of the fictional character Rose Dewitt Bukater?
-Q11765704	P21	('Q6581097',)	which gender is maciej wojdyla
+Q11765704	P21	Q6581097	which gender is maciej wojdyla
 Q172484	R19	Q7106314	Who is someone that was born in nesterov?
 Q4886758	P413	Q201330	What position does the soccer athlete joaquín enrique valerio play
 Q869314	P136	Q11399	what kinds of music is cosmo's factory
@@ -677,11 +677,11 @@ Q1985058	P175	Q313627	mixed race  album was produced by who
 Q5476307	P136	Q42201	what kind of music is fousque
 Q6163354	P1303	Q6607	What instrument does jason roberts play?
 Q552225	P710	Q128983	which military commander was involved in the battle of cádiz?
-Q66565	P21	('Q6581097',)	what is conrad ansorge's gender
+Q66565	P21	Q6581097	what is conrad ansorge's gender
 Q2641137	P31	Q3863	What is the category for the celestial object 11628 katuhikoikeda?
 Q10719369	P136	Q8341	what kind of music does waterclime perform 
 Q1940858	P136	Q487965	what genre is kapital?
-Q2060483	P21	('Q6581097',)	what is the gender of paul j. swain?
+Q2060483	P21	Q6581097	what is the gender of paul j. swain?
 Q2472692	P397	Q525	What celestial body does 21250 kamikouchi orbit
 Q2316733	P50	Q108206	who authored the book grace abounding to the chief of sinners
 Q7696995	R136	Q14173658	whats the name of a television comedy program
@@ -689,7 +689,7 @@ Q5239607	P140	Q7066	what type of faith does david seaborg practice
 Q7897121	P136	Q598929	what's the best genre description of the album unmistakeably rainbow trout
 Q3577037	R179	Q9023719	what is an episode of the west wing
 Q16581735	P676	Q392	Who was the lyricist for the song neighborhood bully?
-Q2554748	P21	('Q6581097',)	What is wei-liang chow's gender
+Q2554748	P21	Q6581097	What is wei-liang chow's gender
 Q5342317	P800	Q478013	what building did edward clarke cabot design?
 Q6464403	P364	Q150	What language do the characters speak in la petite morte
 Q6383214	P136	Q9503	keeper of the keys is what type of book
@@ -748,7 +748,7 @@ Q729229	P710	Q145	What was a nation involved in burma campaign 1944
 Q7685130	P19	Q33486	where was tara sands in?
 Q593877	P58	Q7610474	Who wrote lolita (1997 film)
 Q197518	P136	Q83270	what genre is the album ...to be loved: the best of papa roach
-Q6712629	P21	('Q6581097',)	which gender is m. h. douglas
+Q6712629	P21	Q6581097	which gender is m. h. douglas
 Q130232	R136	Q644900	Name a drama on netflix
 Q1458055	P136	Q645928	what kind of movie is portrait of chieko
 Q924487	P136	Q83270	what kind of rock music is march ör die
@@ -765,7 +765,7 @@ Q436386	R162	Q3139910	What's a movie that rodney dangerfield has produced
 Q9379924	P136	Q188473	what type of film is courage?
 Q467807	P136	Q319221	what types of movie is the magical legend of the leprechauns in netflix
 Q558034	P27	Q30	Where is ray nagin from
-Q6096884	P21	('Q6581097',)	what is ivan maric's gender
+Q6096884	P21	Q6581097	what is ivan maric's gender
 Q3573220	P19	Q30	where was yummy bingham born at?
 Q7732011	P136	Q132311	What genre is the enchanted wood
 Q7771749	P136	Q132311	is the the unusual suspects a fantasy or mystery
@@ -817,7 +817,7 @@ Q4761729	P19	Q217	what country was aneta grosu born in?
 Q155976	P31	Q3863	what type of celestial object is 630 euphemia
 Q300049	P106	Q1930187	What is gloria de piero's gender?
 Q7564414	P136	Q965635	Which type of music is the album soul on ice
-Q7348893	P21	('Q6581097',)	What is robert pierpoint's gender
+Q7348893	P21	Q6581097	What is robert pierpoint's gender
 Q1124849	R264	Q450080	Name an artist under the verve music group record label
 Q3744991	P364	Q1860	what language is spoken in the movie the sainted sisters
 Q7086686	P27	Q155	What is the nationality of olga souza?
@@ -864,7 +864,7 @@ Q6204327	P19	Q199797	Where was jo koy born
 Q8046434	R136	Q1756228	What is a yacht rock title
 Q4920289	P136	Q838368	What kind of a film is black arrow
 Q235605	P20	Q90	which city did jeanne hébuterne die
-Q695741	P21	('Q6581097',)	Is ferruccio furlanetto a male of a female 
+Q695741	P21	Q6581097	Is ferruccio furlanetto a male of a female 
 Q882388	R144	Q609936	What is an adaption of the work the bloody chamber?
 Q533369	P136	Q487965	what types of music is saul williams
 Q130232	R136	Q485836	which drama film was made in 1959
@@ -878,7 +878,7 @@ Q4633079	P136	Q10922	what kind of music is on 2cents?
 Q1054574	R136	Q1169568	what's the name of a 2004 french romance film
 Q2878330	P162	Q6202965	who produced 4bia
 Q6329165	P1408	Q23337	What area does kfnz serve?
-Q4762969	P21	('Q6581097',)	What gender is American entrepreneur angelo sotira?
+Q4762969	P21	Q6581097	What gender is American entrepreneur angelo sotira?
 Q222344	R106	Q5546115	Name a cinematographer. 
 Q3851573	P50	Q1566335	Who was the author of "Master Class"?
 Q6838812	P19	Q24639	which city was mickey walls born in
@@ -907,7 +907,7 @@ Q1215564	P136	Q130232	what kind of movie is the exam
 Q7162544	P19	Q1159	what indian city was pendyala nageswara rao born
 Q1338869	R57	Q458852	what films were directed by ted post
 Q1538	R19	Q7908593	which indian model was born in pune
-Q6514517	P21	('Q6581097',)	what gender is lee meadows?
+Q6514517	P21	Q6581097	what gender is lee meadows?
 Q7611763	P413	Q1048902	which baseball position is steve adkins charged of 
 Q11627	P136	Q205049	which genre of music does frank black make
 Q4910121	P413	Q1186921	which position does bill mcgunnigle hold
@@ -921,7 +921,7 @@ Q5063177	P413	Q24976	What position does century milstead play?
 Q138578	R19	Q4768767	what woman was born in hoboken, new jersey
 Q7721652	P136	Q8253	Which genre of book is the cat who played post office?
 Q4719500	P106	Q169470	what does alexander macfarlane do for a living
-Q8027414	P21	('Q6581097',)	what is the biological gender of wisdom fofo agbo
+Q8027414	P21	Q6581097	what is the biological gender of wisdom fofo agbo
 Q1220014	P495	Q38	what country is the film  the ark of the sun god from
 Q206159	R136	Q332032	What's a psychedelic rock artist
 Q827160	P178	Q628249	who developed stonekeep
@@ -1004,7 +1004,7 @@ Q193592	R413	Q59786	Who is a soccer player that plays midfielder
 Q561401	P27	Q27	what nationality is spike milligan milligan
 Q195576	P136	Q159	what genre is 1612 in in netflix 
 Q154222	P136	Q131272	what is the genre of the artist craig david
-Q3047198	P21	('Q6581097',)	what is the sex of ed peck
+Q3047198	P21	Q6581097	what is the sex of ed peck
 Q57211	P607	Q362	What is a conflict hasso von manteuffel has participated in?
 Q16037657	P607	Q8676	which military conflict did william downey participate in
 Q49266	R19	Q5353716	Who was born in wichita, kansas
@@ -1020,7 +1020,7 @@ Q1028	R276	Q2887926	What conflict occurred in morocco
 Q7816244	P19	Q38022	where was tom howe born
 Q11837795	P27	Q403	which european nation did wiktor osiecki originate from?
 Q49451	R136	Q1976825	Name a progressive rock album.
-Q1700685	P21	('Q6581097',)	What is john kean's gender?
+Q1700685	P21	Q6581097	What is john kean's gender?
 Q3127834	R50	Q7804548	what books have harry hill written
 Q1390963	P106	Q82955	what is marthinus van schalkwyk's job
 Q3097585	P19	Q1791720	where was marcelo garcia born
@@ -1053,11 +1053,11 @@ Q7756017	P136	Q181861	what genre is the paper chase (band)
 Q4216635	P676	Q41173	who wrote for the love of a daughter
 Q3295480	P19	Q370619	where in the united states was martin johnson born in
 Q208344	P162	Q59259	who is the producer of armageddon
-Q7613544	P21	('Q6581097',)	which gender does steve parker belong to
+Q7613544	P21	Q6581097	which gender does steve parker belong to
 Q2065046	P276	Q161491	where did battle of reading happen?
 Q4185452	P136	Q130232	What kind of film is 03:34: earthquake in chile
 Q5596265	R162	Q5890	Which film did grant hill produce?
-Q3056818	P21	('Q6581097',)	what gender is ernest adams 
+Q3056818	P21	Q6581097	what gender is ernest adams 
 Q1588848	P136	Q217597	What sort of album is hate culture
 Q494806	P17	Q30	benton county is a second level dvision of which nation
 Q7839395	P413	Q212413	What basketball position did trevor releford play
@@ -1075,7 +1075,7 @@ Q2086913	R421	Q978501	What is the name of a location in the north american centr
 Q3028503	P170	Q208582	who is the creator of dragon warrior: legend of the hero abel?
 Q16996009	P676	Q1857066	what lyricist wrote how do you keep the music playing?
 Q14356	P20	Q8684	which capital city did park chung-hee die in
-Q770275	P21	('Q6581097',)	what is john mark karr's gender 
+Q770275	P21	Q6581097	what is john mark karr's gender 
 Q675353	P676	Q2599	who wrote the song run for your life?
 Q1405004	P364	Q7737	what is the language of the film an independent life
 Q985661	P421	Q25989	Which time zone can brwinów be found in
@@ -1083,7 +1083,7 @@ Q47526	P413	Q193592	which position does football player zico play
 Q128309	R1303	Q16203192	which musician plays the drum kit
 Q699199	P53	Q8733	from which family does the family member huisheng belong to? 
 Q684538	P136	Q130232	what kind of movie is original sin
-Q827506	P21	('Q6581097',)	what is the gender of bert weedon
+Q827506	P21	Q6581097	what is the gender of bert weedon
 Q322572	P495	Q713750	What country is autumn sonata from?
 Q16234254	P136	Q11399	what kind of music does torres make
 Q193744	P264	Q202440	what record label is tori amos signed to
@@ -1107,14 +1107,14 @@ Q2865308	P27	Q30	what nationality is arthur q. bryan?
 Q6842631	P364	Q5146	What language do the characters speak in midnight
 Q170790	R106	Q1394237	Name a mathematician. 
 Q482784	P131	Q109641	Which county can perry be found in
-Q11473689	P21	('Q6581097',)	What is shigeru okada's gender
+Q11473689	P21	Q6581097	What is shigeru okada's gender
 Q297469	P20	Q494723	what southern california city did leo fender die in
-Q16106802	P21	('Q6581097',)	What is jim silva's gender
+Q16106802	P21	Q6581097	What is jim silva's gender
 Q5123535	P136	Q24925	what is the genre of the book city at the end of time
 Q7755932	P495	Q155	Where was the palace of angels filmed
 Q106740	R58	Q5001997	dorothy l. sayers is credited for which film?
 Q6845500	P136	Q131578	what style of music does mika bomb perform
-Q7491400	P21	('Q6581097',)	is shawn lee male or female
+Q7491400	P21	Q6581097	is shawn lee male or female
 Q645928	R136	Q4712765	Name a 2002 Indian Tamil romantic biographical film film written and directed by Vasanthabalan
 Q193592	R413	Q7571548	whats the name of midfielder football player
 Q603934	P196	Q2179	what is 12617 angelusilesius a part of?
@@ -1149,7 +1149,7 @@ Q639669	R106	Q1313717	Name a musician.
 Q185033	P495	Q145	what country did the film  stealing heaven come from
 Q4980447	P19	Q40435	In which city was carrie stevens born?
 Q968126	P276	Q5456	where is crossing of the andes located
-Q4587418	P21	('Q6581097',)	What is Sigmund Groven's gender?
+Q4587418	P21	Q6581097	What is Sigmund Groven's gender?
 Q2086913	R421	Q3846284	whats the name of a location found in north american central time zone
 Q154770	R58	Q6916024	arnold schoenberg wrote which film?
 Q339093	P264	Q193023	what record label is bebe winans under
@@ -1157,7 +1157,7 @@ Q1430494	P264	Q155152	what label is the spotnicks contracted with
 Q525	P398	Q1480131	What minor planet orbits the sun?
 Q7590484	P149	Q186363	what kind of architectural style is st. mary help of christians church 
 Q15525083	P140	Q106687	what religious practice does morris dees participate in 
-Q8008275	P21	('Q6581097',)	What is william e. mcanulty, jr.'s gender
+Q8008275	P21	Q6581097	What is william e. mcanulty, jr.'s gender
 Q7334947	P138	Q2632	who is ringo deathstarr named after
 Q7137959	P149	Q46261	what is the architectural style of park region luther college
 Q183504	R136	Q597972	whats the name of an artist who makes  indie rock
@@ -1249,7 +1249,7 @@ Q2477079	P19	Q485172	Where was Rachel lampa born?
 Q2457448	P112	Q149451	who is the founder of the ludwig von mises institute
 Q2050326	R19	Q3176619	which baseball pitcher is from northridge?
 Q279744	P136	Q24925	what type of game is half-life (video game)
-Q283162	P21	('Q6581097',)	What is Arthur Blenkinsop's gender?
+Q283162	P21	Q6581097	What is Arthur Blenkinsop's gender?
 Q7677734	P136	Q484641	Which genre is the album take me to your heart again associated with
 Q47821	P421	Q25989	what is the time zone of malcesine?
 Q1969580	P57	Q3091066	who is the director of the pilot for x-files
@@ -1278,7 +1278,7 @@ Q197331	R162	Q1277970	which film was produced by zhang yuan
 Q24826	R19	Q2586583	Name someone who was born in liverpool
 Q3924365	P136	Q188539	what kind of music is proud to be loud
 Q5967378	R136	Q1686494	which book is speculative fiction
-Q469764	P21	('Q6581097',)	What gender is Timothy Treadwall?
+Q469764	P21	Q6581097	What gender is Timothy Treadwall?
 Q4798768	P20	Q506451	Where did arthur g. hansen die?
 Q3134980	R421	Q2086787	What is the name of a place located in mountain time zone?
 Q3835844	P58	Q55433	who wrote the story for the film michelangelo eye to eye
@@ -1296,7 +1296,7 @@ Q3818060	P50	Q319308	Who wrote the mind's i
 Q20378	R136	Q368907	What is the name of a alternative metal album
 Q470152	R175	Q16145275	What is a live album of alejandra guzman?
 Q640259	P106	Q947873	what is allen ludden's profession in the entertainment industry?
-Q1938263	P21	('Q6581097',)	what is mirko boland's gender
+Q1938263	P21	Q6581097	what is mirko boland's gender
 Q826335	P136	Q226730	what kind of film is kohlhiesel's daughters
 Q2400019	P413	Q462471	what basketball position does luke harangody play
 Q1928646	P27	Q30	What nation is michael moore originally from?
@@ -1305,7 +1305,7 @@ Q7342991	P136	Q316930	what kind of music does robert clivillés make
 Q24925	R136	Q7457213	what book is science fiction
 Q7182074	P413	Q336286	which position does phil kelly play
 Q1960980	P131	Q484780	in which county in South Dakota is wolsey located
-Q3567854	P21	('Q6581097',)	what is mehrab hossain, jr.'s gender
+Q3567854	P21	Q6581097	what is mehrab hossain, jr.'s gender
 Q817138	R136	Q7941626	name an album in the electronica genre?
 Q5749420	P21	Q6581072	is carli banks male or female
 Q124134	P19	Q2119	where was  marion caspers-merk born
@@ -1324,7 +1324,7 @@ Q1093560	P17	Q756617	Where is the second level division of Skálavík?
 Q19842222	R136	Q7711221	what is a crime fiction film?
 Q6139813	P20	Q40191	Where did james milne wilson die
 Q15053628	P136	Q487914	What is the genre of artist that high five drive is?
-Q3897158	P21	('Q6581097',)	what is the gender of pasquale tola
+Q3897158	P21	Q6581097	what is the gender of pasquale tola
 Q7735913	P136	Q224989	What kind of book is the gate of time
 Q525	P398	Q2622645	what orbits the sun?
 Q6396574	P172	Q1075293	what is the ethnicity of kevin j. o'toole?
@@ -1332,7 +1332,7 @@ Q175339	R115	Q18711	which sports team play at villa park
 Q5083353	P607	Q215112	What war did charles ward participate in
 Q3743853	R264	Q808333	who is signed with fervent records
 Q6196228	P27	Q30	What country was jim kyle born in?
-Q6130450	P21	('Q6581097',)	What is james buckman's gender?
+Q6130450	P21	Q6581097	What is james buckman's gender?
 Q6167117	P27	Q30	what country is jay robert nash from
 Q28488	R131	Q2447016	what is an example of a city in dickey county, north dakota
 Q6289570	R57	Q6155903	which dramatic film by joshiy also had suresh gopi in a leading role
@@ -1362,7 +1362,7 @@ Q178070	P495	Q142	Where in Europe is bamako filmed in?
 Q713165	R170	Q1609776	what tv program did fred olen ray create
 Q1029283	P20	Q18383	where did david pingree die?
 Q880963	R19	Q270657	who was born in blackwater?
-Q6220320	P21	('Q6581097',)	what is the gender of john baines johnston?
+Q6220320	P21	Q6581097	what is the gender of john baines johnston?
 Q684756	P31	Q3863	what type of celestial object is the 2814 vieira
 Q5086366	P1303	Q11404	What musical instrument does charly alberti play?
 Q434825	P106	Q245068	what is mary scheer's profession?
@@ -1396,7 +1396,7 @@ Q842256	R136	Q2599979	what music is music & musicals in netflix
 Q541073	P136	Q37073	what type of music does jeanie bryson play
 Q7836517	P27	Q30	What is tre hargett's nationality
 Q611487	R178	Q1077080	which video game did bullfrog productions develop
-Q4703654	P21	('Q6581097',)	What is al carmines's gender
+Q4703654	P21	Q6581097	What is al carmines's gender
 Q3620575	P136	Q828322	What kind of game is saru! get you! million monkeys
 Q1355	R19	Q7240187	who was born in bangalore?
 Q698178	P276	Q38	Which country did the italian invasion of france take place in
@@ -1431,7 +1431,7 @@ Q3824302	P413	Q280658	what position does jaime asensio de la fuente play in foot
 Q1900360	R162	Q1191928	what film was produced by mark radcliffe?
 Q1068968	P136	Q838368	What type of film is a king in new york
 Q3868545	P175	Q457125	which artist created the album music is the healing force of the universe
-Q6834649	P21	('Q6581097',)	is michael storm male or female
+Q6834649	P21	Q6581097	is michael storm male or female
 Q188473	R136	Q1073464	What's an example of an action film
 Q978957	P27	Q750	where is marcelo carballo from
 Q1756352	P136	Q11365	which genre is the album fopp
@@ -1457,7 +1457,7 @@ Q7148544	P19	Q234453	what city and state was patti rizzo born in
 Q619851	P279	Q3529376	what is a gunfighter also known as
 Q12078	R509	Q15962295	what person died from cancer?
 Q817138	R136	Q4736293	which electronica albums were produced by altera enigma?
-Q7614019	P21	('Q6581097',)	What is the gender of Steve Springer?
+Q7614019	P21	Q6581097	What is the gender of Steve Springer?
 Q1622317	P413	Q280658	what position does emerson pereira play
 Q268495	R50	Q3667522	Name a work by anita desai.
 Q488111	R106	Q3311471	who is a pornographic actor
@@ -1466,7 +1466,7 @@ Q11736	P131	Q148	what is the administrative parent of tianjin
 Q189382	R175	Q1931913	what's one of the names of king crimson's album
 Q471304	P136	Q188473	is supervolcano an action film or comedy
 Q492649	P136	Q131578	what music label best describes kara best clips
-Q6281408	P21	('Q6581097',)	What is joseph beattie's gender?
+Q6281408	P21	Q6581097	What is joseph beattie's gender?
 Q5129298	P136	Q105420	what tv genre is the program  claudine
 Q6121178	P21	Q6581072	Which gender is jada rowland?
 Q910480	P31	Q3863	what kind of space object is 12649 ascanios
@@ -1479,7 +1479,7 @@ Q619450	P196	Q2179	What asteroid group is 6457 kremsmünster part of
 Q3470322	P495	Q142	in what country was salvador allende shoot
 Q365863	P106	Q82955	What is george washington donaghey's profession
 Q5537013	P509	Q10737	how did george black die
-Q5042492	P21	('Q6581097',)	what gender is carlos pesquera
+Q5042492	P21	Q6581097	what gender is carlos pesquera
 Q7798660	P140	Q483889	What is the religion of thubten chodron?
 Q1532854	P136	Q3071	The the stranglers could be best called
 Q498456	P27	Q884	whats the nationality of  song ok-sook
@@ -1513,7 +1513,7 @@ Q316013	R287	Q1154059	what is a game designed by satoru iwata
 Q885561	R136	Q3895002	what album contains blue-eyed soul
 Q5299716	P136	Q226730	what kind of film is double dealing?
 Q1344	R136	Q589761	what artist sings opera music
-Q6755389	P21	('Q6581097',)	what's marc bendavid's gender
+Q6755389	P21	Q6581097	what's marc bendavid's gender
 Q7819905	P413	Q336286	What position did tommy taylor play?
 Q1378009	P1303	Q80019	what instrument does  alphonso johnson play
 Q1798154	P404	Q208850	what's one of the modes in guitar hero ii
@@ -1561,7 +1561,7 @@ Q4872624	P710	Q18097	Which counrty was involved in the battle of ugeumchi
 Q309637	P607	Q2705449	which military conflict was cincinnatus involved in?
 Q237207	R112	Q457893	What organization was founded by kathleen kennedy (film producer)
 Q12152	R509	Q726089	who was a person who died by myocardial infarction
-Q599506	P21	('Q6581097',)	The gender of falaba issa traoré.
+Q599506	P21	Q6581097	The gender of falaba issa traoré.
 Q167715	R19	Q6190148	Which person was born in thiruvananthapuram?
 Q167155	R19	Q283496	Name an American novelist born in kalamazoo
 Q5606156	P19	Q1297	where was greg pritikin born?
@@ -1575,7 +1575,7 @@ Q3376507	P175	Q1380398	which artist released peter cincotti?
 Q6675379	P272	Q1163074	which company produced looking for comedy in the muslim world
 Q336193	P136	Q838368	What type of film is the devious path
 Q4898384	P136	Q37073	bette is what type of music
-Q6838376	P21	('Q6581097',)	What gender is mick obrien?
+Q6838376	P21	Q6581097	What gender is mick obrien?
 Q682616	R19	Q438345	who was born in cobb?
 Q88649	P404	Q208850	What is a gameplay mode available in mission asteroid
 Q437584	P27	Q30	What is the nationality of Quinton Jackson?
@@ -1598,14 +1598,14 @@ Q128186	R19	Q3545960	who is a model born in saitama prefecture
 Q100303	P20	Q23337	what city did karl g. maeser die
 Q4927618	P136	Q182015	what genre is blood hook 
 Q3487748	P136	Q459290	what kind of movie is strapless
-Q3084811	P21	('Q6581097',)	What gender is guy malary
+Q3084811	P21	Q6581097	What gender is guy malary
 Q834621	R676	Q2557283	What lyrics did Bono write?
 Q6895044	R404	Q893423	what is a multiplayer game?
 Q562744	P172	Q49085	What ethnicity is orlando jordan
 Q6384437	P264	Q664167	Which label is the artist keith hale on
 Q7788598	P737	Q455155	Who influenced thomas cooley?
 Q5592116	P19	Q41087	where did grady cooper's life begin
-Q5081867	P21	('Q6581097',)	is charles r. moore a male or female
+Q5081867	P21	Q6581097	is charles r. moore a male or female
 Q1782272	P136	Q11425	what type of show is karate kommandos
 Q333781	P19	Q23436	where was sir james fergusson, 6th baronet born?
 Q7358844	P27	Q30	What country is roger robinson from
@@ -1663,7 +1663,7 @@ Q202585	R264	Q8066776	What artists are signed to rca records?
 Q183139	P17	Q214	which country is trenčín region in
 Q5541253	P20	Q1854554	Where did george katinakis die?
 Q1215047	P86	Q352817	Who did the music for the film la notte
-Q4117955	P21	('Q6581097',)	What is ebrahim taghipour's gender
+Q4117955	P21	Q6581097	What is ebrahim taghipour's gender
 Q8027438	P50	Q342910	who wrote wise child?
 Q947204	P413	Q201330	what position does david marshall play 
 Q2685326	P21	Q6581072	What gender is ancilla tilia
@@ -1706,7 +1706,7 @@ Q723378	P40	Q5000825	who is the child of gordon gray?
 Q6479587	P495	Q668	Where did the film lakhon ki baat originate?
 Q1749384	P136	Q130232	What is the genre of the title london
 Q2979521	P364	Q13955	what language is my way predominantly in
-Q517275	P21	('Q6581097',)	what sex is roger longrigg
+Q517275	P21	Q6581097	what sex is roger longrigg
 Q1056568	P136	Q188473	what film genre is the movie warning sign
 Q5195350	P264	Q216364	what music company is curt boettcher with?
 Q15044920	P136	Q11366	what type of music does rick witter & the dukes make 
@@ -1722,7 +1722,7 @@ Q337658	R58	Q629975	what movie was written by christopher mcquarrie
 Q4989319	P58	Q606553	who wrote the film zaza
 Q6091926	P676	Q319693	who wrote the lyrics to it might as well be spring?
 Q73884	P421	Q25989	What time zone is gualdo, marche in?
-Q2192127	P21	('Q6581097',)	what is the gender of hugo danckaert?
+Q2192127	P21	Q6581097	what is the gender of hugo danckaert?
 Q1361932	R136	Q922006	what's a movie in the children & family movies section on netflix
 Q336286	R413	Q600980	Who is a notable defender in football
 Q137182	P19	Q391221	where did alexi amarista originally come from
@@ -1740,7 +1740,7 @@ Q11366	R136	Q1037401	What artist plays the genre alternative rock?
 Q673638	P19	Q65	where in california was john locke born in?
 Q41351	P172	Q170826	whats jodie foster's ethnicity
 Q252574	P196	Q2179	What type of asteroid group is 11725 victoriahsu a member of
-Q3792495	P21	('Q6581097',)	What is the gender of ike nwankwo
+Q3792495	P21	Q6581097	What is the gender of ike nwankwo
 Q23916	R136	Q3067262	What's an adventure game adapted from a comic book
 Q130232	R136	Q7144308	what is the name of a tv drama
 Q7749471	P50	Q4933728	Who wrote the magic show?
@@ -1765,7 +1765,7 @@ Q653473	P86	Q1174756	who made the music for buffalo soldiers (film)
 Q4164507	R106	Q873279	Name a art critic
 Q11366	R136	Q3782554	who is an artist that performs alternative rock
 Q483138	P421	Q3134980	What is the time zone of huntsville?
-Q3035873	P21	('Q6581097',)	what is don page's gender?
+Q3035873	P21	Q6581097	what is don page's gender?
 Q1397802	P495	Q30	What is the country of origin of fastlane
 Q5568302	P106	Q947873	What was glenda hatchett's profession?
 Q918132	P710	Q71084	who was the perpetrator of the invasion of java
@@ -1780,14 +1780,14 @@ Q193977	R136	Q511726	which tv program is music video
 Q7898404	P136	Q19842222	What kind of book is upon some midnights clear?
 Q7941357	P136	Q83270	what genre is volym 3
 Q308069	P413	Q193592	what position does abderrahim ouakili play
-Q2734314	P21	('Q6581097',)	what is chuck share's gender
+Q2734314	P21	Q6581097	what is chuck share's gender
 Q3265171	P136	Q130232	what sort of film is donizetti: lucia di lammermoor?
-Q1443106	P21	('Q6581097',)	what sex is frank crawford armstrong
+Q1443106	P21	Q6581097	what sex is frank crawford armstrong
 Q433174	P119	Q7608524	Where was stephen a. douglas buried
 Q711160	P264	Q1238400	What label does steve reid record under
 Q2870390	P86	Q365310	Who did the music for deep in my heart?
 Q115793	P20	Q8717	Where was adolph francis alphonse bandelier when he died
-Q7126711	P21	('Q6581097',)	What gender is palani subramaniam pillai?
+Q7126711	P21	Q6581097	What gender is palani subramaniam pillai?
 Q2266964	P21	Q6581072	What gender is terri hanauer?
 Q7152063	P607	Q362	which war did paul logasa bogen attend
 Q198962	P136	Q11366	what kind of music does sandy leah lima sing?
@@ -1798,7 +1798,7 @@ Q1159979	P272	Q2756484	which company produced affair in havana
 Q211756	R136	Q483980	what artist makes dance-pop music?
 Q23543	P136	Q727781	What genre of music is selena?
 Q7734479	P136	Q4830453	What genre of book is the flivver king
-Q8010143	P21	('Q6581097',)	what is william green's sex
+Q8010143	P21	Q6581097	what is william green's sex
 Q1477859	P495	Q30	what is the country of origin of millennium, the tv program
 Q7729927	P364	Q1860	What language was the devil's labyrinth written in?
 Q1188131	P1040	Q103949	who edited the movie seven chances
@@ -1823,7 +1823,7 @@ Q193592	R413	Q5186154	who is an Argentinian midfielder
 Q6490426	P136	Q83440	what genre is the artist larry groce
 Q11425	R136	Q607346	What's an example of an animation program?
 Q2667371	P276	Q12560	the event battle of svistov  took place where
-Q15462580	P21	('Q6581097',)	what gender is erol gelenbe considered
+Q15462580	P21	Q6581097	what gender is erol gelenbe considered
 Q3917403	P172	Q7325	What is the ethnicity of ivan kulyk?
 Q18356677	R172	Q4866219	which person is marwaris
 Q5081801	P19	Q1756813	Where was charles r. adams born
@@ -1902,7 +1902,7 @@ Q83566	P27	Q419	Where is isabel allende from
 Q330665	P264	Q208909	what is the label of the artist keith west?
 Q17101520	P136	Q130232	what type of film is in heaven
 Q1372500	R58	Q20439164	what film did sheldon moldoff receive writer's credit
-Q2023708	P21	('Q6581097',)	is richard blumenthal male or female
+Q2023708	P21	Q6581097	is richard blumenthal male or female
 Q898233	P136	Q130232	what genre is the preppie murder
 Q6656613	P175	Q5523661	what artist recorded the album live at the black sheep
 Q446294	R57	Q2545805	what film was directed by hal hartley
@@ -1922,7 +1922,7 @@ Q982448	R19	Q3703350	Who was born in plainview
 Q217199	R136	Q6907546	name a 2009 soundtrack
 Q3808023	P20	Q852645	where did jerry haynes die
 Q4771965	P136	Q316930	what type of music does anthony acid make 
-Q7372598	P21	('Q6581097',)	What is roy book binder's gender?
+Q7372598	P21	Q6581097	What is roy book binder's gender?
 Q16732130	R40	Q325130	who is the father of chris matheson 
 Q5016445	P364	Q188	What language is spoken in cadets
 Q7172383	P149	Q1513688	What is peters point plantation's architectural style
@@ -1945,7 +1945,7 @@ Q7109340	P136	Q193355	What type of rock is played on otteita tuomari nurmion lau
 Q997490	P20	Q184023	where did christophe dupouey die?
 Q6032269	P136	Q959583	what kind of music is ingenting att förlora
 Q3094987	P136	Q1150666	to what netflix genre does gamer belong
-Q1961477	P21	('Q6581097',)	what is the sex of charles lallemand
+Q1961477	P21	Q6581097	what is the sex of charles lallemand
 Q3098592	R57	Q304029	which film did gary nelson direct?
 Q40895	P57	Q2903332	who directed dumbo
 Q3047736	P140	Q1841	what religion does edmond auger have
@@ -1986,7 +1986,7 @@ Q7546	R57	Q784465	What is a film directed by ingmar bergman
 Q1365298	P27	Q30	what country is freddie prinze originally from
 Q2207190	P138	Q1376165	Who was berrien springs named after?
 Q5923790	P413	Q193592	where does hristo markov play on the field 
-Q7970019	P21	('Q6581097',)	What is warren alfson's gender?
+Q7970019	P21	Q6581097	What is warren alfson's gender?
 Q18542102	P19	Q19660	where is dragoș moștenescu born 
 Q5879305	P364	Q1860	What language was hold that lion! filmed in?
 Q230218	P136	Q37073	what kinds of music is played by shirley jones
@@ -2000,7 +2000,7 @@ Q309980	P40	Q303332	what are names of edward fox's children
 Q222344	R106	Q450504	name a professional cinematographer.
 Q7715267	P136	Q838368	what type of film is the bad boy
 Q4807758	R178	Q1074369	which game did aspect develop
-Q5240352	P21	('Q6581097',)	What gender is david thomas?
+Q5240352	P21	Q6581097	What gender is david thomas?
 Q7152215	P27	Q145	What nationality is Paul Marquess?
 Q270948	R136	Q10336309	what is a 2006 action game
 Q2464077	P509	Q132821	what was crow foot's cause of death
@@ -2105,7 +2105,7 @@ Q7332420	P136	Q474027	what genre of music is the album riddim driven: x5 release
 Q661511	P65	Q459352	which observatory was (10056) 1988 bx3 discovered at
 Q868217	R136	Q2536271	what is a type of cvg sports game
 Q2843253	R175	Q6100907	which album is created by nepal
-Q1449429	P21	('Q6581097',)	is dario bonetti male or female 
+Q1449429	P21	Q6581097	is dario bonetti male or female 
 Q534705	P19	Q9306	Where was angelika von fritsch born
 Q7267725	P136	Q130232	which type of film is qila
 Q1644952	P1303	Q831698	what instrument does jonah matranga play 
@@ -2133,7 +2133,7 @@ Q155866	P397	Q525	What does 6107 osterbrock orbit around
 Q5716189	P136	Q57143	what type of music is henrik danhage?
 Q719827	R1040	Q1753761	What film has mark goldblatt listed as editor?
 Q858	R19	Q6890858	Name someone born in syria
-Q5497493	P21	('Q6581097',)	Which gender is frederick campling?
+Q5497493	P21	Q6581097	Which gender is frederick campling?
 Q482612	R136	Q492015	what is a korean drama?
 Q1074369	P178	Q918638	who developed the computer videogame fatal fury special
 Q53945	R144	Q60506	what movie was adapted from the book breaking dawn
@@ -2167,7 +2167,7 @@ Q4799557	P264	Q1536003	what label does the artist arthur louis belong to
 Q8074164	P495	Q30	in what country was zoom and bored filmed in
 Q17098833	P86	Q176537	who composed time is time
 Q7977824	P175	Q765861	What band released the album "we want billy!"?
-Q15993481	P21	('Q6581097',)	what gender does elroy schwartz identify as?
+Q15993481	P21	Q6581097	what gender does elroy schwartz identify as?
 Q7749465	P50	Q13410712	who wrote the magic school bus in the time of the dinosaurs
 Q6543017	P136	Q1259759	what kind of show was licence to drill
 Q2882714	P364	Q7737	Name one language the Dutch film the girl and death was filmed in? 
@@ -2186,7 +2186,7 @@ Q193355	R136	Q7993308	what is the name of a blues-rock album
 Q4749254	P27	Q145	What is the nationality of amy jenkins?
 Q7925524	P106	Q28389	what is vicky jewson's job?
 Q211723	R136	Q4052405	What is a speed metal genre album?
-Q873648	P21	('Q6581097',)	name vasan sitthiket's gender
+Q873648	P21	Q6581097	name vasan sitthiket's gender
 Q1686621	P136	Q24925	what classification is the tv program jekyll
 Q5736957	P175	Q1472805	which artist created the album here are the young moderns
 Q4777736	P136	Q37073	The genre of the album anugerah aidilfitri is?
@@ -2231,7 +2231,7 @@ Q1246110	P136	Q11366	what music genre is rattlesnakes
 Q1154560	P136	Q164444	what genre is earth, wind & fire
 Q7814415	P27	Q30	what country gives tolly burkan his or her nationality
 Q983349	P738	Q956879	Who was influenced by n.c. wyeth?
-Q7326317	P21	('Q6581097',)	What is the gender of richard hatem?
+Q7326317	P21	Q6581097	What is the gender of richard hatem?
 Q7802104	P21	Q6581072	is  tildie soames male or female
 Q652481	P136	Q270948	what kind of game is twisted metal: head-on
 Q1216237	P364	Q188	what language is spoken in the inheritors
@@ -2263,7 +2263,7 @@ Q4145412	P136	Q200092	what kind of tv program is  urban gothic
 Q639669	R106	Q7238199	what person is a musician?
 Q114063	P40	Q3737796	who is the child of  ermanno olmi
 Q9393307	P136	Q858330	what type of book is a necessary evil
-Q2089783	P21	('Q6581097',)	Is al ruscio male or female?
+Q2089783	P21	Q6581097	Is al ruscio male or female?
 Q11648545	P495	Q183	which country is age of uprising: the legend of michael kohlhaas from
 Q814334	P136	Q181001	what kind of film is the hunger (film)?
 Q538542	P106	Q33999	what is the profession of lonette mckee
@@ -2275,17 +2275,17 @@ Q1169701	P86	Q2316737	Who composed the music for rancho notorious?
 Q7087927	P138	Q360574	who was oliver wendell holmes high school named after?
 Q336286	R413	Q5534254	Which former football player played defender?
 Q16274950	P364	Q1860	What language was aye, and gomorrah, and other stories originally written in?
-Q6318073	P21	('Q6581097',)	which gender is justin roland
+Q6318073	P21	Q6581097	which gender is justin roland
 Q130232	R136	Q6967672	what is the name of a  drama movie by abdellatif abdelhamid
 Q5085769	P19	Q1720	Where in germany was charline von heyl's place of birth?
-Q5181063	P21	('Q6581097',)	What was craig huby's gender?
+Q5181063	P21	Q6581097	What was craig huby's gender?
 Q3506794	P20	Q34006	Where in California did syd saylor died in?
-('Q6581097',)	R21	Q2287724	name a character who is male.
+Q6581097	R21	Q2287724	name a character who is male.
 Q4695805	P413	Q280658	what position does ahmed fahmie play 
 Q165929	P404	Q6895044	What mode is available in starcraft
 Q372210	P140	Q9268	What religion does lars gustafsson practice
 Q145806	R136	Q13055038	which tv show featured mainly stand-up comedy
-Q4965211	P21	('Q6581097',)	Is brian sackinsky male or female?
+Q4965211	P21	Q6581097	Is brian sackinsky male or female?
 Q2778054	P19	Q2152074	where was anquan boldin born?
 Q525	P398	Q1192502	what asteroid orbits the sun
 Q7126627	P136	Q42998	what kind of group is needed to play palak muchhal's music
@@ -2318,7 +2318,7 @@ Q7383192	P27	Q30	what country gives nationality to ruth root
 Q2454630	P27	Q30	Which country does eric bloom have nationality in
 Q1054574	R136	Q972136	what is a romance film?
 Q43736	P509	Q10737	was yasunari kawabata's death a suicide or homicide?
-Q3069562	P21	('Q6581097',)	What gender is fernando zappia?
+Q3069562	P21	Q6581097	What gender is fernando zappia?
 Q639669	R106	Q6289814	what musician was born in south london?
 Q6671092	P136	Q1196752	what genre is the album london by night
 Q726790	R175	Q4729700	whats an album by the honeycombs
@@ -2349,7 +2349,7 @@ Q5282861	P136	Q9759	What is the genre of music on the album distance and time
 Q3403226	P495	Q739	which country did the tv program  primera dama originate
 Q2632	R676	Q210389	What song did ringo starr write the lyrics to?
 Q40356	P19	Q3927	where was joseph deniker born?
-Q705354	P21	('Q6581097',)	what is the gender of art acord
+Q705354	P21	Q6581097	what is the gender of art acord
 Q2276233	P136	Q4282636	what is the cvg genre of shadow complex
 Q553432	P19	Q1003502	what part of india is vishnu vardhan from?
 Q379613	R175	Q5191103	What's an album by ahmad jamal
@@ -2408,7 +2408,7 @@ Q1205542	P413	Q1142885	what type of baseball position is tris speaker
 Q1032540	R272	Q779517	What is the name of a film created by the canal+ production company
 Q553358	P19	Q113718	Where is the birth place of mehdi ghezali
 Q79822	P737	Q7606083	who inspired adam mickiewicz
-Q2702775	P21	('Q6581097',)	What gender is väinö myllyrinne
+Q2702775	P21	Q6581097	What gender is väinö myllyrinne
 Q7299202	P27	Q30	which nation does raymond v. haysbert belong to?
 Q7259082	P19	Q8646	Where in asia was david ho born
 Q55210	R58	Q3207536	who was the writer for the film abbas kiarostami
@@ -2418,7 +2418,7 @@ Q1062615	P276	Q62958	Where did battle of auray take place?
 Q2158449	P106	Q1930187	what is robert palmer profession
 Q4690195	P136	Q93204	what kind of film is afro-punk
 Q7300628	P57	Q312657	who was the director of the film ready, set, zoom!
-Q16185564	P21	('Q6581097',)	What is John Saint Ryan's gender?
+Q16185564	P21	Q6581097	What is John Saint Ryan's gender?
 Q617124	P264	Q216364	what label is bonham signed with
 Q7604430	P19	Q1581	Where is t. bill sutherland from
 Q1429719	P136	Q83440	WHat kind of music does jamie o'hara make
@@ -2429,14 +2429,14 @@ Q1072766	P136	Q182015	What ype of film is the killing ground
 Q3576778	P57	Q51114	who directed a fight for love?
 Q1142644	P136	Q11399	what kind of music does don snow make
 Q980677	P86	Q7489036	Who did the music for lage raho munna bhai?
-Q3566870	P21	('Q6581097',)	What is wayne wade's gender?
+Q3566870	P21	Q6581097	What is wayne wade's gender?
 Q132311	R136	Q7912989	what book is in the genre fantasy?
 Q426628	P136	Q93204	What kind of film is day of the fight
-Q16212783	P21	('Q6581097',)	what is the sex of nikola paunović
+Q16212783	P21	Q6581097	what is the sex of nikola paunović
 Q736130	P40	Q236094	Who is the child of béla szenes?
 Q7714416	P136	Q251192	What musical genre is the art of being a girl
 Q626767	P136	Q11365	What kind of artist is dead moon
-Q7964136	P21	('Q6581097',)	What is walter abraham's gender?
+Q7964136	P21	Q6581097	What is walter abraham's gender?
 Q3646297	P40	Q1203	Who is the son of alfred lennon?
 Q183504	R136	Q7742955	Which artist performs indie rock?
 Q32158	P19	Q1335	where was sebastián morquio born?
@@ -2482,7 +2482,7 @@ Q737835	P112	Q182921	who founded the organization university of tehran
 Q6518176	P136	Q270948	What kind of game is legions: overdrive
 Q2504465	R175	Q4791965	What is an album that was released by world party
 Q650316	R136	Q45909	who is a well known drone music artist 
-Q4027187	P21	('Q6581097',)	what is yossi vardi's gender
+Q4027187	P21	Q6581097	what is yossi vardi's gender
 Q7751673	P136	Q24925	what type of book is the mirror maker
 Q2907726	P27	Q30	what country is bob kortman from
 Q7382914	P140	Q324640	which religion does ruth carter stapleton practice
@@ -2492,7 +2492,7 @@ Q76826	P140	Q9268	What is the religion max horkheimer associates himself as?
 Q3644473	R40	Q5079870	who is the parent of brian koppelman
 Q1211978	P495	Q30	Where is our relations from
 Q4982194	P123	Q1054844	what company made bubble bobble plus!?
-Q457072	P21	('Q6581097',)	is inge lønning male or female
+Q457072	P21	Q6581097	is inge lønning male or female
 Q7133655	P136	Q286080	what genre is para quando o arco-Íris encontrar o pote de ouro
 Q340	R19	Q7176667	Name a person born in montreal
 Q280658	R413	Q168740	Who's a forward that plays for manchester united
@@ -2508,8 +2508,8 @@ Q4772423	R50	Q5896336	What did anthony drewe write?
 Q3702079	P19	Q2634	Where was daniele sepe born?
 Q16018167	P413	Q1048902	which baseball position is niles jordan charged of
 Q1980574	P20	Q649	what city did karl blank die
-Q16234691	P21	('Q6581097',)	Is kenny ladler male or female?
-Q749029	P21	('Q6581097',)	is christian estrosi male or female
+Q16234691	P21	Q6581097	Is kenny ladler male or female?
+Q749029	P21	Q6581097	is christian estrosi male or female
 Q4747627	P136	Q842256	what type of film is amor se dice cantando?
 Q88089	P27	Q183	Where is paul wittich from?
 Q49297	R172	Q11617	which singer has native americans in the united states ethnicity 
@@ -2550,17 +2550,17 @@ Q1533828	P276	Q399	where was the roman–parthian war of 58–63 located
 Q5508112	P136	Q130232	What genre is full moon in blue water in on netflix?
 Q599915	P136	Q270948	what is the computer video game genre of dynamite cop
 Q211092	R19	Q3613937	Who was born in socialist republic of slovenia?
-Q6586631	P21	('Q6581097',)	is kwan-hun lee male or female
+Q6586631	P21	Q6581097	is kwan-hun lee male or female
 Q7229908	P136	Q319221	What kind of film is por el mismo camino
 Q2447674	P21	Q6581072	what gender is  tracy wright
 Q1514846	P364	Q1860	What language is in gerry
 Q773857	P136	Q188473	Which film genre does dil ne phir yaad kiya best fit in
 Q1572362	P136	Q217467	what kind of music is the album it was the best of times
-Q3099006	P21	('Q6581097',)	is gaston gabaroche male or female
+Q3099006	P21	Q6581097	is gaston gabaroche male or female
 Q598929	R136	Q1333356	what is an artist of post-punk?
 Q8262098	P106	Q578109	What is john nathan-turner's profession?
 Q6980512	P175	Q346374	what artist is on the album natural history
-Q482827	P21	('Q6581097',)	what is william colby's gender
+Q482827	P21	Q6581097	what is william colby's gender
 Q158886	R264	Q1519261	which musical group is signed to nuclear blast
 Q1989491	P413	Q336286	What position does arnór sveinn aðalsteinsson play?
 Q250077	P136	Q1054574	Which type of film is holiday
@@ -2577,7 +2577,7 @@ Q1641839	R136	Q2905328	what are experimental rock albums
 Q4661343	P136	Q188473	what type of movie is aakhri insaaf
 Q16968469	P364	Q1860	what is the main language for the movie zombie women of satan
 Q3569311	P175	Q508202	who released the album wine colored roses
-Q793290	P21	('Q6581097',)	Is the character beregond male or female
+Q793290	P21	Q6581097	Is the character beregond male or female
 Q6767370	P413	Q280658	what position has mark dickson ever played
 Q941417	P27	Q114	Which country is martin lel from
 Q6873018	P27	Q218	where does mircea oltean come from
@@ -2594,7 +2594,7 @@ Q1179806	P19	Q1425428	where was alan thompson born?
 Q2405480	R106	Q7816118	Name a voice actor.
 Q4872014	P276	Q486306	Where did the battle of pensacola take place
 Q6783380	P495	Q30	what country did mask of the avenger come from
-Q1222269	P21	('Q6581097',)	what is dieter kirchlechner's gender
+Q1222269	P21	Q6581097	what is dieter kirchlechner's gender
 Q3929166	P19	Q1335	Which city was raffaele sansone born in
 Q7964125	P27	Q30	Which country does walter a. haas have citizenship in
 Q793824	P19	Q1355	what indian city is t. p. kailasam from
@@ -2619,15 +2619,15 @@ Q2425864	P27	Q30	what is thomas lowndes's nationality
 Q268495	P738	Q228589	What author did anita desai inspire
 Q64373	P20	Q61663	Where was johannes rebmann pronounced dead?
 Q309197	R172	Q555329	Name one of the breton people
-Q12963370	P21	('Q6581097',)	What is Dinky Doo's gender?
+Q12963370	P21	Q6581097	What is Dinky Doo's gender?
 Q7354607	P162	Q263324	Who produced rock odyssey?
-Q5085479	P21	('Q6581097',)	is charlie russell male or female
+Q5085479	P21	Q6581097	is charlie russell male or female
 Q1706678	R272	Q104814	what film is from the company brandywine productions
 Q947873	P279	Q15958754	What is tv personality a specialization of
 Q5095740	P364	Q1860	what language was chicago poems written in
 Q5109037	P495	Q30	which country released christabel
 Q24925	R136	Q6807339	what is an example of a book i the realm of science fiction
-Q13024042	P21	('Q6581097',)	what gender is amnaat luukjan
+Q13024042	P21	Q6581097	what gender is amnaat luukjan
 Q128906	P106	Q82955	What is Hussein Bin Ali, Sharif of Mecca's profession?
 Q6221309	P27	Q30	Where is john becker from
 Q2709775	P61	Q115789	who made the discovery of 45261 decoen?
@@ -2636,7 +2636,7 @@ Q370841	P50	Q470758	who wrote the master
 Q30773	R175	Q924136	What is the name of an album from the artist monrose
 Q130232	R136	Q6721137	Which film is a drama?
 Q38203	P737	Q276028	Which was author was helen keller influenced by?
-Q1235635	P21	('Q6581097',)	what is the gender of keith runcorn
+Q1235635	P21	Q6581097	what is the gender of keith runcorn
 Q1117790	P136	Q1257444	What genre of film is the emperor's new clothes?
 Q6522973	P40	Q1362799	who is lenny mancini's child?
 Q622303	P136	Q858330	what genre is the book a passage to india
@@ -2650,17 +2650,17 @@ Q5448873	P136	Q2095173	what genre of music is found on fillmore west 1969: the c
 Q42574	R58	Q24053265	what films did james cameron write?
 Q722778	P136	Q1640319	What kind of music is boards of canada
 Q1352085	P57	Q286890	Who directed the film analyze that
-Q2658435	P21	('Q6581097',)	is valentyn slyusar a male or female
+Q2658435	P21	Q6581097	is valentyn slyusar a male or female
 Q7650884	P19	Q18419	where in new york was  suzanne kaaren born
 Q1647935	P59	Q10521	What constellation is hd 72108 a part of?
-Q3068157	P21	('Q6581097',)	is felix gilman a male or a female 
-Q5285134	P21	('Q6581097',)	is dizzy sutherland male or female
+Q3068157	P21	Q6581097	is felix gilman a male or a female 
+Q5285134	P21	Q6581097	is dizzy sutherland male or female
 Q1355850	P287	Q7333106	who is the creator of the altered beast game
 Q895149	R276	Q3271228	what event occurred in bound brook, new jersey
 Q1460915	P495	Q30	Where was the big easy filmed?
 Q2976715	P710	Q474202	What ethnic group did second seminole war involve?
 Q778755	P58	Q72792	who wrote the story for the film safety last!
-Q70400	P21	('Q6581097',)	is ludwig suthaus male or female
+Q70400	P21	Q6581097	is ludwig suthaus male or female
 Q593655	R19	Q221125	who was born in east coker?
 Q6173843	P136	Q105527	what genre does the artist jeff friedl perform?
 Q13257933	P136	Q3246900	what kind of tv show is i am a singer
@@ -2727,7 +2727,7 @@ Q26204	P20	Q5843680	Where did dionysius of halicarnassus die
 Q502710	R19	Q1710593	Who was born in greiz
 Q2773178	P19	Q201311	where was théodore botrel born
 Q53094	R136	Q2517390	Name a movie that is considered a black comedy
-Q983672	P21	('Q6581097',)	is peter watts a boy or girl
+Q983672	P21	Q6581097	is peter watts a boy or girl
 Q270988	P58	Q923151	Who wrote the film 800 bullets
 Q6681476	P19	Q172	Where was lorne lofsky born?
 Q193023	R264	Q547684	who's a gospel singer signed to capitol records
@@ -2797,7 +2797,7 @@ Q1990737	P364	Q1860	What was the original language of the written work the auste
 Q8010774	R138	Q60299	which shop is named after william hamley?
 Q5507297	P175	Q928304	who is the artist on fugs 4, rounders score
 Q544387	P264	Q202440	Who signed ray charles
-Q2706880	P21	('Q6581097',)	What gender is salvatore the boss maroni?
+Q2706880	P21	Q6581097	What gender is salvatore the boss maroni?
 Q465047	P140	Q10090	what is vijaya lakshmi nehru pandit's creed
 Q7776611	P364	Q1860	what language is spoken in the year of the mouse
 Q1963136	P19	Q2704	where was nada fiorelli born 
@@ -2839,7 +2839,7 @@ Q8016653	P27	Q30	what is the nationality of william patterson alexander
 Q7537384	P136	Q11425	what type of movie is sky larks?
 Q193592	R413	Q9362644	Who was a football midfielder
 Q7231200	P495	Q30	what country is port of missing girls from?
-Q434996	P21	('Q6581097',)	What is george cecil ives's gender?
+Q434996	P21	Q6581097	What is george cecil ives's gender?
 Q312255	P106	Q11063	What is the profession of tom gehrels?
 Q7331721	P27	Q30	which country is rick schwartz from
 Q6807005	P175	Q320883	What artist made meditation: solo guitar
@@ -2856,7 +2856,7 @@ Q1756741	P404	Q208850	What game play mode is offered for the game star soldier
 Q1743746	P136	Q13377795	what kind of film is kiss daddy goodnight
 Q6539386	P509	Q12152	what was the cause of death for lia maivia 
 Q7733406	P1040	Q1968780	who is the far cry edited by
-Q557260	P21	('Q6581097',)	Is walter wellman male or female?
+Q557260	P21	Q6581097	Is walter wellman male or female?
 Q1411238	P58	Q7960687	who wrote mother india?
 Q13059106	P140	Q10090	what religion is bratya basu a believer of
 Q8261	R136	Q2076441	what novel is written by James Kelman
@@ -2881,11 +2881,11 @@ Q915152	R136	Q15091216	Who is a progressive house artist
 Q362	R607	Q4722818	Name a Norwegian military officer involved in world war ii
 Q36947	R19	Q1071786	who was born in salvador, bahia
 Q7754427	P136	Q217467	What type of music genre is "The Nothing Show"?
-Q4686921	P21	('Q6581097',)	What is ady spencer's gender?
+Q4686921	P21	Q6581097	What is ady spencer's gender?
 Q1072042	P710	Q215585	who was involved in the war in somalia?
 Q7420591	P19	Q812	Which state was santonio thomas from
 Q472294	P57	Q44414	who directed the death camp of tolerance
-Q122170	P21	('Q6581097',)	WHat is dick keith's gender
+Q122170	P21	Q6581097	WHat is dick keith's gender
 Q5501296	P136	Q8253	what kind of book is freezer burn
 Q5113948	P495	Q668	which country was the chronic bachelor filmed in
 Q163829	R1303	Q460908	which scissor sisters member plays the synthesizer? 
@@ -2896,7 +2896,7 @@ Q827172	P364	Q652	what language is spoken in the movie the night evelyn came out
 Q497141	P27	Q423	What nation is no kum-sok from?
 Q1423767	P136	Q1054574	What genre of film is playing by heart?
 Q16251496	P364	Q1860	What language is spoken in honor diaries
-Q505722	P21	('Q6581097',)	What is mike turner's gender?
+Q505722	P21	Q6581097	What is mike turner's gender?
 Q7608227	P27	Q8646	what nationality is stephanie au
 Q212639	P738	Q6138416	who did maurice merleau-ponty help to influence
 Q3481938	P495	Q30	in which country was sherlock holmes filmed
@@ -2912,22 +2912,22 @@ Q3752767	P19	Q123306	which city was frederic richard sullivan born
 Q6434843	P136	Q37073	what genre is the artist kovas under?
 Q192021	P27	Q408	which country is simon baker from
 Q133654	P1040	Q1138607	Who edited the film the silence of the lambs?
-Q6687045	P21	('Q6581097',)	what is louis drucke's gender?
+Q6687045	P21	Q6581097	what is louis drucke's gender?
 Q1181074	P1303	Q1444	what kind of instrument can dean fertita play?
 Q7229119	P136	Q474027	what genre music does andre sutherland do?
 Q1229931	P509	Q3739104	how did karl paryla die?
 Q407789	P113	Q8725	what is a hub for air southwest
 Q2341844	P140	Q29536	what cult does janet farrar practice
-Q7693234	P21	('Q6581097',)	is ted goodier male or female
+Q7693234	P21	Q6581097	is ted goodier male or female
 Q87237	P264	Q165745	what is a record released by d-flame
-Q4647568	P21	('Q6581097',)	is a. b. raj male or female
+Q4647568	P21	Q6581097	is a. b. raj male or female
 Q401831	R136	Q698705	what is the name of a video game of the beat em up collection
 Q3431195	P404	Q208850	what is a gameplay mode featured on richard scarrys busytown
 Q504226	P20	Q71	Where did vincent adler die
 Q731776	P136	Q182015	what is the genre of the film jennifer 8
 Q1867523	P421	Q2086913	What is the time zone of ford?
 Q2292425	P676	Q180861	who was the lyricist for  hey you
-Q6451708	P21	('Q6581097',)	what is kylun's fictional gender
+Q6451708	P21	Q6581097	what is kylun's fictional gender
 Q2220177	P27	Q668	What is sana saeed's nationality
 Q217037	R162	Q1146246	jerry bruckheimer was the producer of this biographical film. 
 Q315199	P136	Q483251	what type of music does mick thompson make
@@ -2936,7 +2936,7 @@ Q520672	P19	Q18094	What is the birth place of james aiona
 Q7564740	P136	Q93204	what type of movie is sound and fury?
 Q7658524	P136	Q270948	what type of genre is the computer videogame swing
 Q3207860	P136	Q130232	what type of movie is why i wore lipstick to my mastectomy
-Q2011940	P21	('Q6581097',)	What is adolfo alsina's gender?
+Q2011940	P21	Q6581097	What is adolfo alsina's gender?
 Q93196	R136	Q180353	what is the name of a bollywood movice
 Q12069738	R149	Q7290871	what are some examples of spanish colonial architecture?
 Q1622607	P19	Q1435	This is the city where ivan parlov was born
@@ -2986,7 +2986,7 @@ Q5238656	P607	Q362	which event did david popescu participate in
 Q5464295	P136	Q11399	what kind of music is otterclan known for releasing
 Q1910809	P421	Q2086913	Which time zone is the nebish township in?
 Q1820453	P131	Q495937	What county is sportsmen acres community within
-Q1283728	P21	('Q6581097',)	What is jon lucien's gender
+Q1283728	P21	Q6581097	What is jon lucien's gender
 Q16385341	P136	Q858330	what book genre is the convenient marriage 
 Q608594	P136	Q20378	what type of music does dys (band) play
 Q982493	P19	Q60	what is stephen schneider's place of birth
@@ -3000,10 +3000,10 @@ Q182015	R136	Q1339178	what film belongs to the  thriller (genre)
 Q280658	R413	Q288321	Who is a retired french footballer that played the position of forward?
 Q4694643	P106	Q214917	What's agustus montrose's profession?
 Q1686948	P495	Q183	Where did nachtschicht - ich habe angst come from
-Q4925349	P21	('Q6581097',)	what gender is thomas neville
+Q4925349	P21	Q6581097	what gender is thomas neville
 Q7176863	P19	Q584451	in what city was peter selgin born
 Q2263420	P364	Q150	What language was spoken in balzac and the little chinese seamstress
-Q4508808	P21	('Q6581097',)	is igor cheminava a male or female 
+Q4508808	P21	Q6581097	is igor cheminava a male or female 
 Q130232	R136	Q3033521	what film is under the drama genre?
 Q7052321	P413	Q24976	what position does norman hand play at?
 Q205049	R136	Q5364527	which artist performs the world music genre
@@ -3057,10 +3057,10 @@ Q3597039	P397	Q525	what celestial body does 11323 nasu orbit?
 Q2559713	P19	Q2482914	what is jim davidson birth place
 Q5189813	P676	Q379802	who wrote the song crucifixion
 Q12126288	P136	Q188473	what type of film is motives
-Q2278675	P21	('Q6581097',)	What is the gender of shifty henry?
+Q2278675	P21	Q6581097	What is the gender of shifty henry?
 Q7922280	P27	Q30	what is vernon washington nationality
 Q1138912	R19	Q7307863	what known person was born in  battersea
-Q4707087	P21	('Q6581097',)	What is alan knill's gender?
+Q4707087	P21	Q6581097	What is alan knill's gender?
 Q4685727	P136	Q130232	what kind of movie is adrift
 Q7072108	P19	Q79990	what is the birth place of o. e. middleton?
 Q3820055	P364	Q652	which language do the actors in one man up speak
@@ -3071,7 +3071,7 @@ Q1421623	P404	Q208850	what mode can stunt car racer be played
 Q18094	R19	Q16216556	who was born in honolulu?
 Q7198873	P149	Q615196	what architectural style is pitcher-goff house
 Q3552846	P495	Q142	What country filmed vla lcinéma ou le roman de charles pathé
-Q90910	P21	('Q6581097',)	is viktor de kowa male or female
+Q90910	P21	Q6581097	is viktor de kowa male or female
 Q1080442	P31	Q3863	What type of celestial object is 5993 tammydickinson
 Q1031002	P364	Q1860	What is the language of the adventures of tintin?
 Q16252101	P136	Q182015	What genre of film is nagin aur suhagin?
@@ -3089,7 +3089,7 @@ Q206	R112	Q488523	What is the name of an organization that was founded by stephe
 Q421963	R131	Q990927	what is a city located in tuscarawas county, ohio
 Q58860	P20	Q7077	what city did gustav ritter von kahr die in
 Q240523	P136	Q484641	what type of music is swizz beatz?
-Q586466	P21	('Q6581097',)	What is kevin dorff's gender? 
+Q586466	P21	Q6581097	What is kevin dorff's gender? 
 Q980830	P509	Q204933	What caused the death of herculanus of perugia?
 Q1029458	P364	Q1860	what language is spoken in tarzan
 Q3300377	P27	Q17	of what nationality is kenzo taniguchi
@@ -3116,10 +3116,10 @@ Q492502	P136	Q93196	which foreign genre is hello brother
 Q8057196	P407	Q1860	what language is sung in you don't know what love is song
 Q1554171	P136	Q11399	What kind of music does guitar wolf play
 Q3391113	P136	Q202930	What genre of music does houseofpleasure make
-Q5512554	P21	('Q6581097',)	how would the majority of people describe g. w. reynolds
+Q5512554	P21	Q6581097	how would the majority of people describe g. w. reynolds
 Q213714	R136	Q2140332	What is an example of a bluegrass album?
 Q3967460	P162	Q183347	who produced squeeze play!
-Q1362634	P21	('Q6581097',)	What gender is John Grogan?
+Q1362634	P21	Q6581097	What gender is John Grogan?
 Q7521224	P264	Q5297134	Which label does sims record for?
 Q3711	R276	Q2631076	what events happened at belgrade?
 Q2348044	P404	Q6895044	which game mode is stargate worlds
@@ -3141,9 +3141,9 @@ Q4827454	P57	Q3520369	who directed aval oru thodar kathai
 Q319221	R136	Q990840	name a netflix adventure film 
 Q6581072	R21	Q5881955	what character is female?
 Q1675887	P509	Q48143	what killed alfred hayes
-Q160311	P21	('Q6581097',)	what is henry iii of england's gender?
+Q160311	P21	Q6581097	what is henry iii of england's gender?
 Q5182894	P19	Q982462	what is crawford martin's place of birth?
-Q182043	P21	('Q6581097',)	what is the gender of matti vanhanen?
+Q182043	P21	Q6581097	what is the gender of matti vanhanen?
 Q1701248	P27	Q40	What nationality is John Olden?
 Q445608	R57	Q378092	Which film did eric tsang direct?
 Q965200	P136	Q645928	What genre does the movie common threads: stories from the quilt belong to
@@ -3193,10 +3193,10 @@ Q7557839	P136	Q37073	What genre was the musical album Solid Gold 68.
 Q1460092	P136	Q24925	Which genre is monsters found in
 Q5180696	P413	Q1048902	what position does craig anderson play
 Q12857422	P50	Q116774	who was the author of catch me if you can
-Q12220874	P21	('Q6581097',)	what is yang jian's gender 
+Q12220874	P21	Q6581097	what is yang jian's gender 
 Q4829365	P140	Q9592	which church does robert jaworski, jr. ascribe to
 Q193459	P264	Q1139341	what label is noel gallagher associated with
-Q1229189	P21	('Q6581097',)	what is giovanni paolo oliva's gender?
+Q1229189	P21	Q6581097	what is giovanni paolo oliva's gender?
 Q1545013	P364	Q1860	what language is spoken in plenty (film)?
 Q7093288	P136	Q11399	What album style is one time bells?
 Q3179353	P407	Q1860	what language is that's not my name in
@@ -3208,7 +3208,7 @@ Q649	R19	Q541213	who was born in moscow?
 Q4046503	P136	Q209137	what kind of music genre is part the second
 Q3842307	P179	Q1883234	What game series is the game madden nfl 13 in?
 Q4373831	P495	Q30	Which country is the film the last sentinel from
-Q1626644	P21	('Q6581097',)	what is roberto purvis's gender
+Q1626644	P21	Q6581097	what is roberto purvis's gender
 Q653426	P27	Q17	is takashi watanabe from japan or china
 Q2522849	P397	Q525	what celestial body does 13933 charleville orbit
 Q7671199	P136	Q45981	which genre is tp considered to be
@@ -3270,7 +3270,7 @@ Q3932572	P19	Q41057	what city and state was michael wilhoite born in
 Q1033	R19	Q3142084	who was born in nigeria
 Q941023	R421	Q3452339	what is a location in the eastern daylight time zone
 Q14326806	P413	Q462471	what is james paringatai's position in basketball 
-Q6533432	P21	('Q6581097',)	is letlapa mphahlele male or female
+Q6533432	P21	Q6581097	is letlapa mphahlele male or female
 Q2380853	P106	Q82955	what type of profession does rais yatim have?
 Q4931066	P413	Q528145	which position on the field did bo cornell play
 Q1546789	P136	Q860626	what kind of film is the wedding party 
@@ -3280,7 +3280,7 @@ Q1052120	P276	Q319984	where was east african campaign held
 Q157309	P140	Q9268	What is the religion of simone weil?
 Q1798314	P136	Q132311	what type of tv program was the legend of the condor heroes
 Q7045303	P136	Q378988	what type of music is noah's arc: season 1
-Q16012582	P21	('Q6581097',)	what is lorang christiansen's gender?
+Q16012582	P21	Q6581097	what is lorang christiansen's gender?
 Q2414027	P264	Q183387	Which label is the artist wendy and lisa signed to
 Q14927695	P676	Q318223	who composed dark horse
 Q5988577	P162	Q3520369	who produced the film  idhaya thirudan
@@ -3293,7 +3293,7 @@ Q15458683	P20	Q11299	What was the place of death of merwin k. hart
 Q7560162	P175	Q180453	what artist created something special?
 Q485083	P364	Q9176	what is the language of queen of housewives?
 Q8355	R1303	Q66075	who played the violin?
-Q1210536	P21	('Q6581097',)	Which gender is didier daeninckx?
+Q1210536	P21	Q6581097	Which gender is didier daeninckx?
 Q5531139	P20	Q755566	Where did Gene Corbett die?
 Q2389288	P136	Q343568	what kind of game is escape from colditz?
 Q6837200	P21	Q6581072	What gender is michelle park steel
@@ -3302,7 +3302,7 @@ Q2430157	P57	Q298352	who directed thursdays children
 Q5133974	P27	Q30	What country is clint johnson from
 Q1961583	P495	Q29	what country is lovers from
 Q16846099	P495	Q30	What country was i remember better when i paint released in
-Q7823380	P21	('Q6581097',)	What is the gender of tony sealy
+Q7823380	P21	Q6581097	What is the gender of tony sealy
 Q377614	R112	Q3152804	what organization was founded by sir lowthian bell, 1st baronet
 Q484212	P136	Q130232	what type of show is on air?
 Q2143665	R136	Q165713	what is an example of a family film
@@ -3312,7 +3312,7 @@ Q3139580	P19	Q42053	where in Iran was homayoon as'adian born
 Q5235157	P106	Q28389	What is david hoselton's profession?
 Q1261372	P57	Q36970	who was the director of  the legend of drunken master
 Q5077182	P20	Q491540	where did charles e. silberman pass away
-Q4256394	P21	('Q6581097',)	Is the sex of richard leveridge male or female?
+Q4256394	P21	Q6581097	Is the sex of richard leveridge male or female?
 Q8057052	P136	Q1641839	what classification is the album you can't spell slaughter without laughter
 Q2066902	P136	Q24925	Which genre of book is the wheels of chance?
 Q3134980	R421	Q7102752	which city uses mountain time zone
@@ -3324,7 +3324,7 @@ Q3492712	P364	Q727694	which east asian language is sparrow filmed in?
 Q1194353	P136	Q23633	What netflix genre is the hitchhiker
 Q547137	R136	Q477461	who is an artist that creates latin pop music
 Q10372288	P136	Q8253	What sort of book is size 12 is not fat
-Q677717	P21	('Q6581097',)	What gender is constantinos christoforou
+Q677717	P21	Q6581097	What gender is constantinos christoforou
 Q7762891	P162	Q3497711	who was the producer for the second chance
 Q6296387	P86	Q313540	who is the english composer for the film rio 2?
 Q3041128	P276	Q2379122	Where did first battle of swat take place
@@ -3337,9 +3337,9 @@ Q226730	R136	Q3007929	what is a film in the silent film genre
 Q2040478	P21	Q6581072	Is raageshwari's gender male or female
 Q1687841	P413	Q280658	what position does boima karpeh play
 Q2135	R19	Q4062575	Who was born in winnipeg?
-Q5213553	P21	('Q6581097',)	what gender is dan georgakas
+Q5213553	P21	Q6581097	what gender is dan georgakas
 Q1597011	R86	Q4802906	in which film did music contributor peter matz work on
-Q182464	P21	('Q6581097',)	what is marc singer's gender
+Q182464	P21	Q6581097	what is marc singer's gender
 Q306532	P136	Q80930	The tv show sola is under which genre?
 Q1471937	P136	Q1054574	saathiya is this genre of film.
 Q350405	R1431	Q7715419	what film did adam mckay executively produce
@@ -3367,7 +3367,7 @@ Q330629	R264	Q3318953	Who is an artist signed to sony music entertainment?
 Q1945072	P136	Q11366	what kind of genre is whiskey for the holy ghost
 Q5265391	P86	Q7409844	Who is the music by in destruction, inc.?
 Q7971079	P413	Q336286	what position does warundeep singh play?
-Q725093	P21	('Q6581097',)	which gender is jim aparo
+Q725093	P21	Q6581097	which gender is jim aparo
 Q582380	P495	Q30	what is the country of origin of the tv program la ink
 Q7143402	P136	Q3071	What genre does pat dubar perform?
 Q93204	R136	Q15889851	what is an example of a documentary film
@@ -3421,12 +3421,12 @@ Q4675877	P27	Q43	what is the nationality of giritli ali aziz efendi?
 Q4799181	P172	Q49085	which ethnicity is arthur j. bond
 Q11401	R136	Q864991	Name a band from the hip hop music genre
 Q710331	P140	Q5043	What religion does arthur lawley, 6th baron wenlock practice
-Q2455369	P21	('Q6581097',)	what is rafael araújo's gender?
+Q2455369	P21	Q6581097	what is rafael araújo's gender?
 Q463732	P20	Q220	in which italian city did mario carotenuto die
 Q661044	P65	Q930096	Where was 6870 pauldavies discovered
 Q193592	R413	Q1179053	which english footballer was a career midfielder
 Q7694171	P19	Q79875	Where was tee martin born?
-Q318627	P21	('Q6581097',)	what gender does aristagoras identify as
+Q318627	P21	Q6581097	what gender does aristagoras identify as
 Q46046	R136	Q58391	who is the artist of baroque pop?
 Q17028928	P50	Q449797	Who is the author of the written work the steel mirror?
 Q7749592	P86	Q1737949	Who created the music for the film the magnificent two
@@ -3447,7 +3447,7 @@ Q193592	R413	Q2001138	whats the name of a football  midfielder
 Q7734886	P136	Q24925	What kind of film is the fortress?
 Q302490	P136	Q319221	what type of film is the mission (1986 film)
 Q641486	P136	Q319221	What kind of tv show is courage the cowardly dog
-Q798020	P21	('Q6581097',)	What gender is bacchelli?
+Q798020	P21	Q6581097	What gender is bacchelli?
 Q170611	R136	Q6407455	Name an artist in the techno music genre. 
 Q845863	P136	Q93204	fantasy:mariah carey at madison square garden is an example of what kind of film
 Q521387	P136	Q838368	what genre is the 1962 the manchurian candidate film 
@@ -3567,14 +3567,14 @@ Q286594	P31	Q3863	what kind of celestial object is (30960) 1994 uv2?
 Q1573190	P1142	Q877848	what ideology does the pim fortuyn list follow
 Q436650	P27	Q25	what nationality is neville southall
 Q7153252	R86	Q691785	What film was paul robb the musical contributor for?
-Q351670	P21	('Q6581097',)	What is vartapet komitas's gender
+Q351670	P21	Q6581097	What is vartapet komitas's gender
 Q57588	P737	Q124354	what art school influenced marcel breuer
 Q3436394	P19	Q11198	Where waS niko lozančić born
 Q738086	P264	Q2297757	under what label does robert patterson work
 Q5495474	P413	Q1048902	what position does fred holdsworth play in baseball
 Q25400	R171	Q1930933	What taxon does asteraceae belong to
 Q69124	P607	Q362	which military conflict did gotthard handrick participate in
-Q73609	P21	('Q6581097',)	Is the sex of ludwig rehn that of female or male?
+Q73609	P21	Q6581097	Is the sex of ludwig rehn that of female or male?
 Q598929	R136	Q13415332	what is an example of a post-punk album
 Q1402886	P27	Q142	Which nation is louis j. gasnier from?
 Q23129	P17	Q145	What nation is herefordshire a part of
@@ -3639,7 +3639,7 @@ Q5228317	P413	Q336286	Which position does dave beaumont play
 Q182284	P495	Q38	What is the the sicilian girl's country of origin
 Q682904	P162	Q18352670	Who produced monster-in-law
 Q7618765	P136	Q157443	What kind of netflix movie is stomp out loud?
-Q2901086	P21	('Q6581097',)	What is naftoli trop's gender?
+Q2901086	P21	Q6581097	What is naftoli trop's gender?
 Q1475253	P136	Q83440	what kind of music does jim vallance make?
 Q11366	R136	Q7062305	What is an alternative rock from Australia? 
 Q12124742	P136	Q369747	What kind of film is hell squad
@@ -3652,7 +3652,7 @@ Q6816616	P364	Q1860	what language is mendez vs. westminster: for all the childre
 Q508143	P27	Q38	what is lorenzo balducci's country of nationality
 Q7713650	P136	Q616679	what is the genre of the album the anatomy of 
 Q313166	P138	Q343065	who is the weddell seal named after
-Q6824112	P21	('Q6581097',)	what is seong-min kang's gender?
+Q6824112	P21	Q6581097	what is seong-min kang's gender?
 Q4635716	P136	Q1568	which genre of film is 36 ghante titled in netflix?
 Q5108145	P27	Q30	what is the nationality of chris stamey
 Q4218562	P58	Q270178	who was the author of apartment zero
@@ -3692,7 +3692,7 @@ Q2411602	P123	Q494917	who was the publisher that put out ignition
 Q2143665	R136	Q7285422	what are titles of family films
 Q328135	P20	Q34404	Where was john m. parker when he died
 Q280658	R413	Q980651	Which former football player was a forward?
-Q282915	P21	('Q6581097',)	What is the gender of ignacio piatti?
+Q282915	P21	Q6581097	What is the gender of ignacio piatti?
 Q60854	P27	Q183	Which European nation is johannes valentinus andreae from?
 Q444366	R162	Q3279058	Name film produced by dan schneider (tv producer).
 Q4920289	P86	Q1397968	Who made the music for black arrow
@@ -3735,8 +3735,8 @@ Q13560487	P27	Q30	what nationality is linda shayne
 Q4892896	P27	Q142	Which country is bernard amadei from
 Q6817943	P136	Q11708	what is the netflix genre where the film merantau is under
 Q6648920	P57	Q1173200	who directed little annie rooney?
-Q5537495	P21	('Q6581097',)	Is george butler male or female?
-Q623059	P21	('Q6581097',)	what gender is aquaman
+Q5537495	P21	Q6581097	Is george butler male or female?
+Q623059	P21	Q6581097	what gender is aquaman
 Q514197	P1303	Q11404	what music instrument is played by gene hoglan
 Q7752174	P50	Q384481	who is the author of the moon of gomrath?
 Q65	R19	Q4933021	What american radio host was born in los angeles?
@@ -3748,7 +3748,7 @@ Q7298142	P40	Q7298508	what is ray stata's child's name
 Q5307201	P106	Q82955	what is the job title of drew hutton
 Q183504	R136	Q7344163	which indie rock artists are from sydney, australia?
 Q921993	P19	Q29	where in europe was manuel agujetas born
-Q5112427	P21	('Q6581097',)	What gender is Christopher Green?
+Q5112427	P21	Q6581097	What gender is Christopher Green?
 Q25269	P138	Q8962	which scientist was joule named after
 Q14540823	P407	Q1860	What language is in ever ever after
 Q559113	P149	Q245188	what is the architectural style of esplanade - theatres on the bay, singapore
@@ -3771,7 +3771,7 @@ Q4930457	P136	Q105527	what types of music is blues dream
 Q1054574	R136	Q4375173	what russian film is a romance film 
 Q11031	P737	Q1399	who was influenced by Vilfredo Pareto?
 Q7296357	R86	Q6480100	Which film did raveendran contribute music to
-Q213920	P21	('Q6581097',)	is hanns ludin a male or female
+Q213920	P21	Q6581097	is hanns ludin a male or female
 Q525	P398	Q4543922	the sun is orbited by what main-belt minor planet
 Q459290	R136	Q7726552	what is a comedy indie film released in 1922
 Q18426	R19	Q5249884	who was born in the bronx?
@@ -3903,7 +3903,7 @@ Q3987331	P495	Q30	in which country was the goose girl filmed
 Q57866	P131	Q16963	Where is yancheng located
 Q1462	R276	Q8349925	Which event took place in sardinia?
 Q5207375	P364	Q8097	what language do the actors speak in daana veera soora karna
-Q84523	P21	('Q6581097',)	What is the gender of karl friedrich becker?
+Q84523	P21	Q6581097	What is the gender of karl friedrich becker?
 Q2765	R19	Q83488	who is a well known person born in gelsenkirchen
 Q1412298	R175	Q4006079	Name an album from helmet
 Q1598710	P19	Q41329	what city was heinrich schaller born in
@@ -3915,7 +3915,7 @@ Q183504	R136	Q15712198	Name a indie rock artist
 Q212688	R136	Q12320236	who plays dub
 Q7309582	P175	Q1691384	who was the artist that performed the songs on regular joe
 Q3589	P136	Q130232	What kind of film is the manchurian candidate?
-Q467613	P21	('Q6581097',)	What is ikkyu's gender?
+Q467613	P21	Q6581097	What is ikkyu's gender?
 Q929811	P495	Q30	where was vamp released first
 Q4769561	P364	Q1860	What was the original language of the film anniversary trouble
 Q78283	P20	Q6986	where did friedrich august ukert die
@@ -3937,7 +3937,7 @@ Q132311	R136	Q2240419	 what tv program is fantasy
 Q1175001	P136	Q42201	What kind of artist is david kitt?
 Q185165	R175	Q1505836	What compilation album did olivia newton-john release in 1998?
 Q7770221	P136	Q24925	what kind of book is the trigger
-Q7183267	P21	('Q6581097',)	what is the gender of philip braham
+Q7183267	P21	Q6581097	what is the gender of philip braham
 Q496046	P413	Q336286	what position does yutaka akita play in football
 Q201330	R413	Q1528941	what player plays goalkeeper?
 Q16954	R19	Q16669771	who is the person born in lower normandy
@@ -3974,7 +3974,7 @@ Q87606	P19	Q1040	which city was sebastian ströbel born
 Q2943680	P140	Q1841	what religion does cecil chesterton practice
 Q6827905	P136	Q9759	what type of music does micah smaldone play?
 Q7451921	P21	Q6581072	What was sepideh jodeyri's gender?
-Q7298241	P21	('Q6581097',)	what is ray vukcevich's gender
+Q7298241	P21	Q6581097	what is ray vukcevich's gender
 Q7207363	P50	Q44183	who was the author of poems
 Q5496928	P264	Q183412	What label is freddy wexler signed to?
 Q4832384	P1142	Q6186	what is the ideology of the communist party of azerbaijan?
@@ -4014,7 +4014,7 @@ Q1647087	P413	Q280658	what position does don givens play
 Q193592	R413	Q1317612	Name an Italian soccer midfielder
 Q5499128	P20	Q731069	where did frederick willoughby die?
 Q5073696	P136	Q842324	what type of music did chara the best baby baby baby xxx play?
-Q112004	P21	('Q6581097',)	What is sammi fajarowicz's gender?
+Q112004	P21	Q6581097	What is sammi fajarowicz's gender?
 Q11194303	P19	Q213324	Which city was jun izutsu born in
 Q2984372	P123	Q494917	Who published color a dinosaur?
 Q584802	P50	Q228801	who wrote the grass crown
@@ -4034,7 +4034,7 @@ Q7187341	P364	Q1568	which language is phool khile hain gulshan gulshan spoken in
 Q819516	P27	Q183	What is the nationality of eugen dücker?
 Q83440	R136	Q7897936	what is a country music album
 Q7369347	P413	Q280658	What soccer position does ross gaynor hold
-Q5920006	P21	('Q6581097',)	What is howard johnson's sex
+Q5920006	P21	Q6581097	What is howard johnson's sex
 Q79716	P421	Q3238805	What's the time zone used in whittier
 Q6746335	P136	Q21590660	what kind of movie is man from music mountain
 Q264730	P172	Q235155	What race does gloria vanderbilt belong to
@@ -4043,7 +4043,7 @@ Q6776384	P264	Q3233924	what label does martin plaza record under
 Q1018504	R19	Q6909632	What American pastor was born in Paris?
 Q446177	P413	Q280658	What position did former soccer player pavel kuka play?
 Q1098388	P136	Q45981	What is the genre of the album everybody needs somebody to love / think?
-Q711477	P21	('Q6581097',)	what is frans van anraat's gender?
+Q711477	P21	Q6581097	what is frans van anraat's gender?
 Q6768111	P136	Q487965	What kind of music does mark hosler play
 Q847736	P413	Q1048902	Which position does satoshi komatsu play in baseball
 Q9730	R136	Q5189017	Who is an artist known for classical music?
@@ -4080,7 +4080,7 @@ Q11286600	P413	Q1048902	Which position was ismael valdez
 Q4656972	P162	Q361208	Who produced a gentleman of leisure?
 Q482964	P136	Q187760	what musical genre does depeche mode create
 Q14623727	P162	Q6289625	who produced the film short term 12
-Q6395981	P21	('Q6581097',)	what gender is kevin carlson
+Q6395981	P21	Q6581097	what gender is kevin carlson
 Q4101644	P136	Q842256	what kind of film is six p.m.?
 Q5291977	P86	Q1949093	Who composed "Don't Tell Me 9What Love Can Do)"?
 Q206823	P149	Q176483	What is the architectural style of reims cathedral?
@@ -4095,14 +4095,14 @@ Q1064803	P136	Q170238	what style of show in netflix is melissa & joey under?
 Q3773631	P136	Q851213	what kind of music is the album  gotan object
 Q4913317	P136	Q753520	What style of music does billy smiley preform?
 Q5749355	P86	Q1790	Who is the composer that created hey mister heartache
-Q3002921	P21	('Q6581097',)	what is cristóbal cruz's gender
+Q3002921	P21	Q6581097	what is cristóbal cruz's gender
 Q15133227	P136	Q23916	what is the cvg genre of dream chamber
 Q7251319	P136	Q9503	What is the netflix genre that protection can be found in
 Q618670	P27	Q30	Which country is azitamusic from
 Q470499	P162	Q1365966	Who produced the movie blood and wine?
 Q7713482	P495	Q30	Where was the american game filmed in?
 Q3317144	P27	Q794	whats the nationality of mitra hajjar
-Q263591	P21	('Q6581097',)	What gender is daniel rogers
+Q263591	P21	Q6581097	What gender is daniel rogers
 Q24925	R136	Q5142434	what's the title of a science fiction book
 Q483251	R136	Q3901266	What death metal album was released in 2007?
 Q623724	P156	Q740489	what was the sequel to meet the parents
@@ -4126,7 +4126,7 @@ Q949156	P136	Q856872	what musical genre is otep shamaya considered
 Q1954469	P136	Q37073	what genre is unbreakable: the greatest hits, volume 1 
 Q567644	P27	Q183	What country is christian rahn from
 Q966460	R19	Q7340608	Who's a lawyer born in kirksville
-Q4389496	P21	('Q6581097',)	What is the gender of hitoshi tomizawa?
+Q4389496	P21	Q6581097	What is the gender of hitoshi tomizawa?
 Q2964885	R40	Q325487	who is the father of chris wallace (journalist)
 Q334053	R40	Q336702	who was granville leveson-gower, 2nd earl granville's father
 Q130857	R106	Q2648823	who is a disc jockey?
@@ -4147,7 +4147,7 @@ Q328466	P27	Q29	from what country is toñito from
 Q1060761	P19	Q1781	What city was ferenc sas's place of birth?
 Q460662	P509	Q12152	what was the cause of death for hoagy carmichael
 Q176483	R149	Q5554462	What is an example of gothic architecture?
-Q17012064	P21	('Q6581097',)	What is the gender of george silver?
+Q17012064	P21	Q6581097	What is the gender of george silver?
 Q1312076	P20	Q756103	in what city did herbert b. warburton die
 Q6848922	P413	Q1050571	What baseball position does  play
 Q2633374	P131	Q113875	what county does midland belong to
@@ -4178,7 +4178,7 @@ Q316603	P20	Q505955	which city did bruno heck die
 Q6396880	P737	Q43718	Name someone who influenced kevin mcaleer.
 Q5526119	P413	Q528145	What position did former american football gary weaver play?
 Q4872804	P710	Q30	which country was involved in battle of zapote river?
-Q4772324	P21	('Q6581097',)	What gender is anthony crank?
+Q4772324	P21	Q6581097	What gender is anthony crank?
 Q520669	P106	Q2405480	what is hōchū Ōtsuka's profession in the entertainment industry?
 Q1098578	P140	Q1841	Which religion is ivan belostenec associated with
 Q16632676	P364	Q1860	which language is used in saint george
@@ -4190,8 +4190,8 @@ Q11085	R509	Q446647	which american judge died due to parkinsons disease
 Q172	R19	Q324349	who was born in toronto?
 Q3641481	P57	Q51491	Who directed boccaccio
 Q1054574	R136	Q3472409	what tv program is romance film
-Q885998	P21	('Q6581097',)	what is ralph g. brooks's gender?
-Q459998	P21	('Q6581097',)	What is the gender of ichirō ozawa
+Q885998	P21	Q6581097	what is ralph g. brooks's gender?
+Q459998	P21	Q6581097	What is the gender of ichirō ozawa
 Q7775943	P136	Q5967378	what is the world below considered
 Q1962376	P58	Q294773	who was the writer of  despair
 Q12040838	P364	Q9056	which language was innocence filmed in
@@ -4199,7 +4199,7 @@ Q1353673	R50	Q4740366	Name a written work from the author Russell Hoban.
 Q220450	P737	Q207640	who was david gemmell influence 
 Q1142885	R413	Q7331671	Who's a baseball player that's an outfielder
 Q182015	R136	Q7783978	What is an example of a thriller (genre) movie?
-Q164131	P21	('Q6581097',)	is john polson a boy or a girl
+Q164131	P21	Q6581097	is john polson a boy or a girl
 Q3147583	P57	Q189526	who directed the film icarus?
 Q679933	R123	Q3491607	what is a video game published by eidos interactive
 Q5246903	P136	Q1196752	What kind of album is dear mr. cole?
@@ -4213,14 +4213,14 @@ Q2595579	R162	Q867138	What is a film produced by wyck godfrey?
 Q6774205	P140	Q10090	what is martanda sydney tondaiman's religion
 Q433739	P737	Q505981	What surgeon influenced william paley
 Q3141	R19	Q10363193	Name a man born in melbourne
-Q7272285	P21	('Q6581097',)	What gender is quinn k. redeker
-Q5722978	P21	('Q6581097',)	What gender is henry hicks
+Q7272285	P21	Q6581097	What gender is quinn k. redeker
+Q5722978	P21	Q6581097	What gender is henry hicks
 Q3986489	P136	Q187760	what is the genre of the artist thecutelepers
 Q1052867	R19	Q3525662	who is a person born in mekong delta
 Q119465	P27	Q21	what is ken owen's nationality 
 Q7771682	P50	Q509002	who is the author of the written work the unquiet grave
 Q74683	P123	Q863618	who is the publisher of lego indiana jones 2: the adventure continues?
-Q6381411	P21	('Q6581097',)	What is peter folco's gender?
+Q6381411	P21	Q6581097	What is peter folco's gender?
 Q10384115	P1431	Q25191	Who was the executive producer of the film  transcendence
 Q10926	R136	Q5365606	which artist creates  emo music
 Q5191261	P421	Q847142	in what time zone is crystal lake recreation area?
@@ -4232,7 +4232,7 @@ Q1580386	P495	Q30	which country is hiawatha's rabbit hunt from
 Q3992660	P136	Q17	What netflix genre does tomie: revenge fall under?
 Q4167499	P413	Q1048902	which position in baseball did matt desalvo play?
 Q2724414	P27	Q142	What is the nationality of antoine préget?
-Q521365	P21	('Q6581097',)	is cotton minahan male or female
+Q521365	P21	Q6581097	is cotton minahan male or female
 Q3282637	R106	Q654513	What person has the profession of a film producer?
 Q2526255	R106	Q5112848	Name a film director
 Q11815	P607	Q653664	what battle did james monroe participate in
@@ -4248,7 +4248,7 @@ Q4200293	P495	Q28	what country is the movie immigrants from?
 Q151880	P136	Q45981	Which genre is the album confessions on a dance floor from
 Q1852055	P136	Q24862	What genre of film is steal this film - part one
 Q6396750	P364	Q1860	What language is the girl from tomorrow part ii: tomorrows end in?
-Q322422	P21	('Q6581097',)	what is the gender of grzegorz turnau
+Q322422	P21	Q6581097	what is the gender of grzegorz turnau
 Q15998685	P19	Q18419	Where was william j. heffernan bown
 Q6386252	P19	Q49241	What is the birth place of kelly pratt
 Q3539929	P407	Q7737	What language is three russian songs, op. 41 in
@@ -4263,7 +4263,7 @@ Q5334836	P413	Q903354	What position does ed galigher play
 Q361	R607	Q5661276	who was involved in the world war i?
 Q2398096	R19	Q6384970	which person was born in university park
 Q666082	P58	Q973713	Who wrote the film the innocents
-Q4622	P21	('Q6581097',)	what is francesco filelfo's gender?
+Q4622	P21	Q6581097	what is francesco filelfo's gender?
 Q2164531	R264	Q5417395	what reggae singer and producer is promoted  by rounder records
 Q435650	P136	Q484641	what types of music is played by bobby kimball
 Q5274794	P413	Q193592	what position does diego romano play at?
@@ -4291,7 +4291,7 @@ Q2139961	P57	Q724098	Who directed the movie thumbsucker
 Q694108	P20	Q498078	where did karl august, prince of waldeck and pyrmont die
 Q218038	R264	Q112307	Who is an artist  signed by rca records?
 Q4001077	P136	Q24862	what type of film is two-gun gussie
-Q508026	P21	('Q6581097',)	What is andrew toney's gender?
+Q508026	P21	Q6581097	What is andrew toney's gender?
 Q1486	R19	Q1170247	Who is a notable figure that was born in buenos aires
 Q2552385	P175	Q46087	which artist recorded graduated fool 
 Q336286	R413	Q7926014	who is a defender
@@ -4333,7 +4333,7 @@ Q3112865	P1303	Q6607	what instrument does mark matejka play
 Q7842771	P149	Q176483	What is the architectural style of the trinity episcopal church?
 Q5367	R136	Q4945996	What's a motorsport movie on netflix
 Q10871364	R106	Q7297690	Who is a notable baseball player
-Q430893	P21	('Q6581097',)	what is the sex of charles kent?
+Q430893	P21	Q6581097	what is the sex of charles kent?
 Q8277	R509	Q2277258	who is someone who has died of multiple sclerosis
 Q2144746	P58	Q39212	who wrote the story for la perla?
 Q712592	R676	Q3299141	what lyrics did billie joe armstrong write?
@@ -4353,7 +4353,7 @@ Q3665646	R106	Q2066899	what is the name of a professional basketball player?
 Q301	R138	Q1135929	what is el greco named after?
 Q1292913	P19	Q145	Where was edward lyons born in europe
 Q2641105	P397	Q525	around which main star does 10864 yamagatashi move
-Q4885556	P21	('Q6581097',)	What is ben duala ekoko's gender?
+Q4885556	P21	Q6581097	What is ben duala ekoko's gender?
 Q1168018	P495	Q30	in what country was treasure of the amazon filmed
 Q656	R19	Q2846815	Who is a notable person that was born in saint petersburg
 Q7313975	P136	Q837837	what genre is the album repercussion?
@@ -4371,7 +4371,7 @@ Q5667155	P413	Q1050571	What position did the baseball player harry barton play
 Q4353586	P264	Q756320	which label is maurycy stefanowicz signed to
 Q8253	R136	Q7773074	what is the name of a fiction 1992 book
 Q4055572	P19	Q15180	Where was akhmed avdorkhanov born
-Q4055572	P21	('Q6581097',)	what is akhmed avdorkhanov's gender?
+Q4055572	P21	Q6581097	what is akhmed avdorkhanov's gender?
 Q1532162	P136	Q188473	What genre of film is ibrahim labyad?
 Q908559	P19	Q972	what was the place of birth of hendrik willem bakhuis roozeboom
 Q5447941	P364	Q7033959	Which language was fighting for love filmed in?
@@ -4476,7 +4476,7 @@ Q319777	P20	Q588	Where did wojciech kilar die
 Q1167685	P495	Q30	what country is the final inquiry from?
 Q1355634	P27	Q30	what country is gregory t. linteris from
 Q944152	P264	Q202585	What label is andy russell under
-Q5296828	P21	('Q6581097',)	What is  donovan arp's gender
+Q5296828	P21	Q6581097	What is  donovan arp's gender
 Q4355642	P413	Q280658	what is patrik lomski's football position
 Q1242948	P106	Q11774202	what does alice mcdermott do for a living?
 Q27478	P413	Q336286	which football position is gilles cioni charged of
@@ -4497,11 +4497,11 @@ Q5071538	P495	Q145	Where is the show chanelle: wannabe popstar from
 Q14915668	P1303	Q128309	what instrument did jim shapiro play?
 Q174992	P136	Q24925	What sort of movie is 12:01
 Q7147316	P20	Q1297	where did patrick nash pass away 
-Q6244260	P21	('Q6581097',)	what is the gender of john leboutillier?
+Q6244260	P21	Q6581097	what is the gender of john leboutillier?
 Q3641542	P136	Q223770	body puzzle is considered a part of what genre?
 Q7356979	P413	Q622747	which position did rodney landers in american football
 Q7959371	P175	Q811015	What artist made wae's me for prince charlie
-Q7387961	P21	('Q6581097',)	is s. v. venkatraman male or female
+Q7387961	P21	Q6581097	is s. v. venkatraman male or female
 Q2449272	P509	Q10737	What was the cause of marie mcdonald's death?
 Q5160040	P495	Q145	What country was confessions of a window cleaner shot in
 Q216849	P17	Q756617	which division is skúvoy a branch of
@@ -4530,7 +4530,7 @@ Q6818503	P172	Q4172847	which ethnicity is mercito gesta a member of
 Q5003334	P136	Q856872	What genre of music is buy now... saved later?
 Q4740017	P495	Q902	what country is in amar jaan amar pran
 Q201908	R138	Q18233	What pop band got its name from anni-frid lyngstad
-Q1700771	P21	('Q6581097',)	What gender is john lafarge, jr.?
+Q1700771	P21	Q6581097	What gender is john lafarge, jr.?
 Q13564939	P170	Q1333734	Who created the character futurist
 Q6402284	P364	Q1568	What language is spoken in the film khoon ki pukaar
 Q2086913	R421	Q1913274	This Iowa city falls in the north american central time zone.
@@ -4545,7 +4545,7 @@ Q11425	R136	Q642368	What is an animation program
 Q353753	P272	Q72081	Which company produced kind hearts and coronets
 Q4045499	P136	Q185029	what kind of a game is nosferatu: the wrath of malachi?
 Q11977	R19	Q538492	who was born in tychy?
-Q7149556	P21	('Q6581097',)	is paul brucher biologically male or female
+Q7149556	P21	Q6581097	is paul brucher biologically male or female
 Q2037665	P136	Q200092	What genre is fiend without a face
 Q188094	R106	Q2799963	Name an economist. 
 Q720731	P264	Q645889	which label represents the artist roger chapman
@@ -4586,7 +4586,7 @@ Q7995501	P136	Q130232	what type of movie is white valentine
 Q2864907	P19	Q34404	which state was arthel neville born
 Q4542178	P31	Q3863	What type of celestial object is (21019) 1988 vc2
 Q1174148	P19	Q1015967	where was david daker born
-Q5237020	P21	('Q6581097',)	is david mackey male or female
+Q5237020	P21	Q6581097	is david mackey male or female
 Q8663	R607	Q1377013	which military personnel was involved in the korean war
 Q3998933	P404	Q208850	What is a gameplay mode that can be played on trioncube
 Q7181714	P413	Q25113	what does phil bogle play 
@@ -4598,7 +4598,7 @@ Q5535954	R138	Q220728	what was named after george a. fuller
 Q213388	P136	Q517415	what kind of music does aqua (band) play
 Q4037480	P136	Q188473	what kind of movie is doberman deka
 Q51177	P149	Q186363	Which architectural style is the basilica of santa croce, florence built in 
-Q468368	P21	('Q6581097',)	What is max greger's gender?
+Q468368	P21	Q6581097	What is max greger's gender?
 Q6125054	P106	Q10871364	What is jake wade's profession
 Q5078914	P19	Q1626044	What release includes the recording red
 Q3022994	P364	Q1860	which language is used in soccer days
@@ -4608,7 +4608,7 @@ Q515942	P136	Q817138	what is the genre of the artist orbital
 Q876364	P413	Q193592	which position in football does christian backs play as?
 Q1801486	P364	Q1860	what language is shoestring in?
 Q130232	R136	Q1347905	What's a drama film released in 1961
-Q10441680	P21	('Q6581097',)	what is the gender of  zak thompson
+Q10441680	P21	Q6581097	what is the gender of  zak thompson
 Q188093	P27	Q30	what country is langston hughes from
 Q679933	R123	Q1123794	What's a game published by eidos interactive
 Q1061246	P136	Q170238	What genre is growing pains considered
@@ -4638,7 +4638,7 @@ Q830430	P86	Q528663	who did the music for the afterglow fil,
 Q60	R19	Q957639	which person was born in new york city
 Q7329337	P19	Q49179	where was richard t. antoun born
 Q2603822	P136	Q5372	What game genre best describes nba live 08
-Q379580	P21	('Q6581097',)	What gender is john muir?
+Q379580	P21	Q6581097	What gender is john muir?
 Q200092	R136	Q536833	whats the title of a cvg horror genre
 Q7727483	P136	Q132438	What music genre does the continuum hypothesis fall under?
 Q2362467	P136	Q183862	what kind of music genre is the rising tide of oblivion
@@ -4698,7 +4698,7 @@ Q711097	P31	Q3863	What the category for (8107) 1995 br4?
 Q204496	R276	Q2612536	which event in 2003 was held at the millennium stadium
 Q7617151	P175	Q354496	Who is the artist from the album still stills: the best of stephen stills
 Q369747	R136	Q2394071	Name a war film
-Q3615937	P21	('Q6581097',)	What is the gender of hong kum-song?
+Q3615937	P21	Q6581097	What is the gender of hong kum-song?
 Q30	R17	Q112882	whats the name of a second level division in united states
 Q7749	R136	Q5433531	which rock and roll album was a relased for the Supersuckers fan club? 
 Q7341107	P413	Q1368195	Which position did robby thompson play?
@@ -4723,7 +4723,7 @@ Q9458	P40	Q784324	What is one of muhammad's children's names?
 Q901620	P136	Q1640319	What kind of music is on the album we’re only in it for the money
 Q1898638	P19	Q8717	where was pablo ruiz barrero born?
 Q550244	P800	Q188856	Name a structure designed by jacques-germain soufflot
-Q6514039	P21	('Q6581097',)	What is the gender of lee hyung-min?
+Q6514039	P21	Q6581097	What is the gender of lee hyung-min?
 Q6738963	P175	Q946728	what artist made the album make it last forever
 Q5299153	P136	Q206159	what type of music is on the album dos dedos mis amigos
 Q7400471	P136	Q132311	What kind of film is saimin?
@@ -4734,10 +4734,10 @@ Q161652	R172	Q1399383	Who is of Japanese ethnicity?
 Q6201453	P140	Q33203	What religion does jimmy upton practice
 Q7092531	P364	Q1860	which language is written in one clear call
 Q310357	R175	Q2335845	what album is by coolio?
-Q6465272	P21	('Q6581097',)	Is la shawn k. ford a man or woman
+Q6465272	P21	Q6581097	Is la shawn k. ford a man or woman
 Q3535561	P20	Q1156	Which city did Polly Umrigar pass away in?
 Q3127466	P509	Q12152	What was the cause of harlan jordan's death?
-Q3804376	P21	('Q6581097',)	what is italo alighiero chiusano's gender?
+Q3804376	P21	Q6581097	what is italo alighiero chiusano's gender?
 Q93196	R136	Q4831781	What is the title of a bollywood netflix film?
 Q1788949	P136	Q24925	whats the genre of the game sins of a solar empire
 Q2562334	P27	Q414	where in south america is manuel dorrego from?
@@ -4802,7 +4802,7 @@ Q4808987	P57	Q312143	who directed the tv episode birthmarks
 Q213388	P136	Q606393	What kind of artist is aqua (band)?
 Q3944930	P27	Q29	What country is xavier vives from?
 Q5304057	P364	Q1860	dr. devil and mr. hare was spoken in what language
-Q742140	P21	('Q6581097',)	What is copi's gender?
+Q742140	P21	Q6581097	What is copi's gender?
 Q1212854	P364	Q1860	is fred claus in the english language or french
 Q41390	P737	Q60028	who has influenced kurt godel?
 Q7704105	P19	Q996804	in what city and state was terry beeson born
@@ -4835,7 +4835,7 @@ Q3447805	R19	Q2979046	Who is a notable person that was born in waitsfield
 Q312201	P138	Q4083867	who was bent county named after?
 Q5815058	P19	Q170688	Where was Jose carlos barba born?
 Q2889722	P19	Q1345	which city was stewart culin born in
-Q313927	P21	('Q6581097',)	is dani osvaldo male or female
+Q313927	P21	Q6581097	is dani osvaldo male or female
 Q256730	P172	Q79797	what is christy canyon's ethnicity?
 Q3595085	P364	Q150	Which language is dinosaur island filmed in
 Q6407225	P162	Q172261	who produced kill the poor
@@ -4859,7 +4859,7 @@ Q714880	R58	Q3927383	To what film is Damon Runyon a contributor?
 Q809	R136	Q9365197	Name a film title in the netflix polish language genre
 Q4832505	P364	Q36236	What language is azhakiya ravanan filmed in?
 Q7111404	P178	Q1045344	who developed outnumbered!
-Q3480757	P21	('Q6581097',)	what is the sex of seumas o'kelly?
+Q3480757	P21	Q6581097	what is the sex of seumas o'kelly?
 Q3709870	P413	Q280658	which position did herby fortunat play in football?
 Q150804	P136	Q11694964	what kind of film is the pianist (2002 film)
 Q1343857	P19	Q11299	where was jon seda given birth
