@@ -4864,4 +4864,4 @@ Q3709870	P413	Q280658	which position did herby fortunat play in football?
 Q150804	P136	Q11694964	what kind of film is the pianist (2002 film)
 Q1343857	P19	Q11299	where was jon seda given birth
 Q2981169	P106	Q6625963	What is nikolaj frobenius's profession?
-Q174	R19	Q1948488	who is a person that was born in sao paulo 
+Q174	R19	Q1948488	who is a person that was born in sao paulo
