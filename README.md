@@ -14,8 +14,8 @@ The mapping code is in the `build.ipynb` file. The mapping of Freebase topics to
 * `annotated_wd_data_test.txt` contains 9961 questions converted from the 21687 original questions.
 * `annotated_wd_data_valid.txt` contains 4867 questions converted from the 10845 original questions.
 
-* `annotated_wd_data_train_full.txt` contains 14695 questions converted from the 75910 original questions.
-* `annotated_wd_data_test_full.txt` contains 4249 questions converted from the 21687 original questions.
-* `annotated_wd_data_valid_full.txt` contains 2013 questions converted from the 10845 original questions.
+* `annotated_wd_data_train_answerable.txt` contains 14695 questions converted from the 75910 original questions.
+* `annotated_wd_data_test_answerable.txt` contains 4249 questions converted from the 21687 original questions.
+* `annotated_wd_data_valid_answerable.txt` contains 2013 questions converted from the 10845 original questions.
 
 You can find the same datasets also in the QALD format in the QALD-format directory.
