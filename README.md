@@ -3,6 +3,8 @@ SimpleQuestionsWikidata
 
 This repository provides a version of the [SimpleQuestions](https://research.fb.com/downloads/babi/) dataset mapped to Wikidata.
 
+## Description
+
 Data is organized in 6 files: `annotated_wd_data_{train, valid, test}{_full}.txt` .
 Each file contains one example per line with the following format:
 `subject [tab] property [tab] object [tab] question`, with `subject`, `property` and `object` being identifiers of Wikidata items or properties.
@@ -19,3 +21,11 @@ The mapping code is in the `build.ipynb` file. The mapping of Freebase topics to
 * `annotated_wd_data_valid_answerable.txt` contains 2013 questions converted from the 10845 original questions.
 
 You can find the same datasets also in the QALD format in the QALD-format directory.
+
+## Publication
+
+If you use this dataset please cite:
+
+Question Answering Benchmarks for Wikidata 
+by Diefenbach, Dennis and Tanon, Thomas and Singh, Kamal and Maret, Pierre
+ISWC 2017
