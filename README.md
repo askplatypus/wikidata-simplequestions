@@ -6,7 +6,7 @@ This repository provides a version of the [SimpleQuestions](https://research.fb.
 Data is organized in 6 files: `annotated_wd_data_{train, valid, test}{_full}.txt` .
 Each file contains one example per line with the following format:
 `subject [tab] property [tab] object [tab] question`, with `subject`, `property` and `object` being identifiers of Wikidata items or properties.
-`Rxxx` property identifiers encode the inverse property of the Wikidata property `Pxxx`. For example `R19` encodes the properties "born here", i.e. the inverse of `P19` ("birth place"). Note that not every translated triple must also exist in Wikidata. Part of the information when moving from Freebase to Wikidata was lost. The files ending with "_full" contain only triples that are also in Wikidata.
+`Rxxx` property identifiers encode the inverse property of the Wikidata property `Pxxx`. For example `R19` encodes the properties "born here", i.e. the inverse of `P19` ("birth place"). Note that not every translated triple must also exist in Wikidata. Part of the information when moving from Freebase to Wikidata was lost. The files ending with "_answerable" contain only triples that are also in Wikidata.
 
 The mapping code is in the `build.ipynb` file. The mapping of Freebase topics to Wikidata items is done using the `mid_to_qid.tsv` file and the one between properties is the one [stored on Wikidata](https://www.wikidata.org/wiki/Wikidata:WikiProject_Freebase/Mapping). Contributions to these mappings are welcome.
 
