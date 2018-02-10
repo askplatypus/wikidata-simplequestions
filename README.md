@@ -29,3 +29,19 @@ If you use this dataset please cite:
 Question Answering Benchmarks for Wikidata 
 by Diefenbach, Dennis and Tanon, Thomas and Singh, Kamal and Maret, Pierre
 ISWC 2017
+
+BibTeX:
+```
+@inproceedings{wikidata-benchmark,
+  author    = {Dennis Diefenbach and
+               Thomas Pellissier Tanon and
+               Kamal Deep Singh and
+               Pierre Maret},
+  title     = {Question Answering Benchmarks for Wikidata},
+  booktitle = {Proceedings of the {ISWC} 2017 Posters {\&} Demonstrations and
+               Industry Tracks co-located with 16th International Semantic Web Conference
+               {(ISWC} 2017), Vienna, Austria, October 23rd - to - 25th, 2017.},
+  year      = {2017},
+  url       = {http://ceur-ws.org/Vol-1963/paper555.pdf}
+}
+```
