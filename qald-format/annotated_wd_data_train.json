@@ -1,189 +1,186 @@
 {
   "questions": [
     {
-      "knowledgebase": "wikidata",
+      "query": {
+        "sparql": "SELECT ?x WHERE { ?x <http://www.wikidata.org/prop/direct/P19> <http://www.wikidata.org/entity/Q12439> .  } ", 
+        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      \n    ]\n  }\n}\n"
+      }, 
       "question": [
         {
-          "string": "who is a musician born in detroit",
+          "string": "who is a musician born in detroit", 
           "language": "en"
         }
-      ],
-      "query": {
-        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      \n    ]\n  }\n}\n",
-        "sparql": "SELECT ?x WHERE { ?x \u003chttp://www.wikidata.org/prop/direct/P19\u003e \u003chttp://www.wikidata.org/entity/Q6106580\u003e .  } "
-      },
-      "id": 0
-    },
+      ], 
+      "id": 0, 
+      "knowledgebase": "wikidata"
+    }, 
     {
-      "knowledgebase": "wikidata",
+      "query": {
+        "sparql": "SELECT ?x WHERE { <http://www.wikidata.org/entity/Q7370831> <http://www.wikidata.org/prop/direct/P162> ?x . } ", 
+        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      \n    ]\n  }\n}\n"
+      }, 
       "question": [
         {
-          "string": "who produced the film rough house rosie",
+          "string": "who produced the film rough house rosie", 
           "language": "en"
         }
-      ],
-      "query": {
-        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      \n    ]\n  }\n}\n",
-        "sparql": "SELECT ?x WHERE { \u003chttp://www.wikidata.org/entity/Q7370831\u003e \u003chttp://www.wikidata.org/prop/direct/P162\u003e ?x . } "
-      },
-      "id": 1
-    },
+      ], 
+      "id": 1, 
+      "knowledgebase": "wikidata"
+    }, 
     {
-      "knowledgebase": "wikidata",
+      "query": {
+        "sparql": "SELECT ?x WHERE { <http://www.wikidata.org/entity/Q6817891> <http://www.wikidata.org/prop/direct/P364> ?x . } ", 
+        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      {\n        \"x\": { \"type\": \"uri\" , \"value\": \"http://www.wikidata.org/entity/Q1568\" }\n      }\n    ]\n  }\n}\n"
+      }, 
       "question": [
         {
-          "string": "what is the language in which mera shikar was filmed in",
+          "string": "what is the language in which mera shikar was filmed in", 
           "language": "en"
         }
-      ],
-      "query": {
-        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      {\n        \"x\": { \"type\": \"uri\" , \"value\": \"http://www.wikidata.org/entity/Q1568\" }\n      }\n    ]\n  }\n}\n",
-        "sparql": "SELECT ?x WHERE { \u003chttp://www.wikidata.org/entity/Q6817891\u003e \u003chttp://www.wikidata.org/prop/direct/P364\u003e ?x . } "
-      },
-      "id": 2
-    },
+      ], 
+      "id": 2, 
+      "knowledgebase": "wikidata"
+    }, 
     {
-      "knowledgebase": "wikidata",
+      "query": {
+        "sparql": "SELECT ?x WHERE { ?x <http://www.wikidata.org/prop/direct/P276> <http://www.wikidata.org/entity/Q1297> .  } ", 
+        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      \n    ]\n  }\n}\n"
+      }, 
       "question": [
         {
-          "string": "Whats the name of a battle that happened in chicago",
+          "string": "Whats the name of a battle that happened in chicago", 
           "language": "en"
         }
-      ],
-      "query": {
-        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      \n    ]\n  }\n}\n",
-        "sparql": "SELECT ?x WHERE { ?x \u003chttp://www.wikidata.org/prop/direct/P276\u003e \u003chttp://www.wikidata.org/entity/Q2888523\u003e .  } "
-      },
-      "id": 3
-    },
+      ], 
+      "id": 3, 
+      "knowledgebase": "wikidata"
+    }, 
     {
-      "knowledgebase": "wikidata",
+      "query": {
+        "sparql": "SELECT ?x WHERE { ?x <http://www.wikidata.org/prop/direct/P413> <http://www.wikidata.org/entity/Q193592> .  } ", 
+        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      \n    ]\n  }\n}\n"
+      }, 
       "question": [
         {
-          "string": "what player plays the position midfielder?",
+          "string": "what player plays the position midfielder?", 
           "language": "en"
         }
-      ],
-      "query": {
-        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      \n    ]\n  }\n}\n",
-        "sparql": "SELECT ?x WHERE { ?x \u003chttp://www.wikidata.org/prop/direct/P413\u003e \u003chttp://www.wikidata.org/entity/Q5822614\u003e .  } "
-      },
-      "id": 4
-    },
+      ], 
+      "id": 4, 
+      "knowledgebase": "wikidata"
+    }, 
     {
-      "knowledgebase": "wikidata",
+      "query": {
+        "sparql": "SELECT ?x WHERE { ?x <http://www.wikidata.org/prop/direct/P607> <http://www.wikidata.org/entity/Q19896779> .  } ", 
+        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      \n    ]\n  }\n}\n"
+      }, 
       "question": [
         {
-          "string": "which red army general was involved in the great patriotic war?",
+          "string": "which red army general was involved in the great patriotic war?", 
           "language": "en"
         }
-      ],
-      "query": {
-        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      \n    ]\n  }\n}\n",
-        "sparql": "SELECT ?x WHERE { ?x \u003chttp://www.wikidata.org/prop/direct/P607\u003e \u003chttp://www.wikidata.org/entity/Q157615\u003e .  } "
-      },
-      "id": 5
-    },
+      ], 
+      "id": 5, 
+      "knowledgebase": "wikidata"
+    }, 
     {
-      "knowledgebase": "wikidata",
+      "query": {
+        "sparql": "SELECT ?x WHERE { <http://www.wikidata.org/entity/Q6849115> <http://www.wikidata.org/prop/direct/P413> ?x . } ", 
+        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      {\n        \"x\": { \"type\": \"uri\" , \"value\": \"http://www.wikidata.org/entity/Q336286\" }\n      }\n    ]\n  }\n}\n"
+      }, 
       "question": [
         {
-          "string": "what is the position that  mike twellman plays",
+          "string": "what is the position that  mike twellman plays", 
           "language": "en"
         }
-      ],
-      "query": {
-        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      {\n        \"x\": { \"type\": \"uri\" , \"value\": \"http://www.wikidata.org/entity/Q336286\" }\n      }\n    ]\n  }\n}\n",
-        "sparql": "SELECT ?x WHERE { \u003chttp://www.wikidata.org/entity/Q6849115\u003e \u003chttp://www.wikidata.org/prop/direct/P413\u003e ?x . } "
-      },
-      "id": 6
-    },
+      ], 
+      "id": 6, 
+      "knowledgebase": "wikidata"
+    }, 
     {
-      "knowledgebase": "wikidata",
+      "query": {
+        "sparql": "SELECT ?x WHERE { ?x <http://www.wikidata.org/prop/direct/P136> <http://www.wikidata.org/entity/Q842256> .  } ", 
+        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      \n    ]\n  }\n}\n"
+      }, 
       "question": [
         {
-          "string": "list some musical films",
+          "string": "list some musical films", 
           "language": "en"
         }
-      ],
-      "query": {
-        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      \n    ]\n  }\n}\n",
-        "sparql": "SELECT ?x WHERE { ?x \u003chttp://www.wikidata.org/prop/direct/P136\u003e \u003chttp://www.wikidata.org/entity/Q5962341\u003e .  } "
-      },
-      "id": 7
-    },
+      ], 
+      "id": 7, 
+      "knowledgebase": "wikidata"
+    }, 
     {
-      "knowledgebase": "wikidata",
+      "query": {
+        "sparql": "SELECT ?x WHERE { <http://www.wikidata.org/entity/Q7273> <http://www.wikidata.org/prop/direct/P27> ?x . } ", 
+        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      {\n        \"x\": { \"type\": \"uri\" , \"value\": \"http://www.wikidata.org/entity/Q30\" }\n      }\n    ]\n  }\n}\n"
+      }, 
       "question": [
         {
-          "string": "what is ellen swallow richards\u0027s nationality?",
+          "string": "what is ellen swallow richards's nationality?", 
           "language": "en"
         }
-      ],
-      "query": {
-        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      {\n        \"x\": { \"type\": \"uri\" , \"value\": \"http://www.wikidata.org/entity/Q30\" }\n      }\n    ]\n  }\n}\n",
-        "sparql": "SELECT ?x WHERE { \u003chttp://www.wikidata.org/entity/Q7273\u003e \u003chttp://www.wikidata.org/prop/direct/P27\u003e ?x . } "
-      },
-      "id": 8
-    },
+      ], 
+      "id": 8, 
+      "knowledgebase": "wikidata"
+    }, 
     {
-      "knowledgebase": "wikidata",
+      "query": {
+        "sparql": "SELECT ?x WHERE { <http://www.wikidata.org/entity/Q247643> <http://www.wikidata.org/prop/direct/P364> ?x . } ", 
+        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      {\n        \"x\": { \"type\": \"uri\" , \"value\": \"http://www.wikidata.org/entity/Q1860\" }\n      }\n    ]\n  }\n}\n"
+      }, 
       "question": [
         {
-          "string": "What language is the show elementary broadcast in?",
+          "string": "What language is the show elementary broadcast in?", 
           "language": "en"
         }
-      ],
-      "query": {
-        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      {\n        \"x\": { \"type\": \"uri\" , \"value\": \"http://www.wikidata.org/entity/Q1860\" }\n      }\n    ]\n  }\n}\n",
-        "sparql": "SELECT ?x WHERE { \u003chttp://www.wikidata.org/entity/Q247643\u003e \u003chttp://www.wikidata.org/prop/direct/P364\u003e ?x . } "
-      },
-      "id": 9
-    },
+      ], 
+      "id": 9, 
+      "knowledgebase": "wikidata"
+    }, 
     {
-      "knowledgebase": "wikidata",
+      "query": {
+        "sparql": "SELECT ?x WHERE { <http://www.wikidata.org/entity/Q6135854> <http://www.wikidata.org/prop/direct/P21> ?x . } ", 
+        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      {\n        \"x\": { \"type\": \"uri\" , \"value\": \"http://www.wikidata.org/entity/Q6581097\" }\n      }\n    ]\n  }\n}\n"
+      }, 
       "question": [
         {
-          "string": "what is the gender of james hendry?",
+          "string": "what is the gender of james hendry?", 
           "language": "en"
         }
-      ],
-      "query": {
-        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      {\n        \"x\": { \"type\": \"uri\" , \"value\": \"http://www.wikidata.org/entity/Q6581097\" }\n      }\n    ]\n  }\n}\n",
-        "sparql": "SELECT ?x WHERE { \u003chttp://www.wikidata.org/entity/Q6135854\u003e \u003chttp://www.wikidata.org/prop/direct/P21\u003e ?x . } "
-      },
-      "id": 10
-    },
+      ], 
+      "id": 10, 
+      "knowledgebase": "wikidata"
+    }, 
     {
-      "knowledgebase": "wikidata",
+      "query": {
+        "sparql": "SELECT ?x WHERE { <http://www.wikidata.org/entity/Q4021138> <http://www.wikidata.org/prop/direct/P136> ?x . } ", 
+        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      {\n        \"x\": { \"type\": \"uri\" , \"value\": \"http://www.wikidata.org/entity/Q172980\" }\n      }\n    ]\n  }\n}\n"
+      }, 
       "question": [
         {
-          "string": "what type a film is wyatt earps revenge",
+          "string": "what type a film is wyatt earps revenge", 
           "language": "en"
         }
-      ],
-      "query": {
-        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      {\n        \"x\": { \"type\": \"uri\" , \"value\": \"http://www.wikidata.org/entity/Q172980\" }\n      }\n    ]\n  }\n}\n",
-        "sparql": "SELECT ?x WHERE { \u003chttp://www.wikidata.org/entity/Q4021138\u003e \u003chttp://www.wikidata.org/prop/direct/P136\u003e ?x . } "
-      },
-      "id": 11
-    },
+      ], 
+      "id": 11, 
+      "knowledgebase": "wikidata"
+    }, 
     {
-      "knowledgebase": "wikidata",
+      "query": {
+        "sparql": "SELECT ?x WHERE { <http://www.wikidata.org/entity/Q184622> <http://www.wikidata.org/prop/direct/P738> ?x . } ", 
+        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      \n    ]\n  }\n}\n"
+      }, 
       "question": [
         {
-          "string": "who did jean genet influence",
+          "string": "who did jean genet influence", 
           "language": "en"
         }
-      ],
-      "query": {
-        "answers": "{\n  \"head\": {\n    \"vars\": [ \"x\" ]\n  } ,\n  \"results\": {\n    \"bindings\": [\n      \n    ]\n  }\n}\n",
-        "sparql": "SELECT ?x WHERE { \u003chttp://www.wikidata.org/entity/Q184622\u003e \u003chttp://www.wikidata.org/prop/direct/P738\u003e ?x . } "
-      },
-      "id": 12
+      ], 
+      "id": 12, 
+      "knowledgebase": "wikidata"
     }
-  ],
-  "dataset": {
-    "id": "simple-question-wikidata-train"
-  }
+  ]
 }
