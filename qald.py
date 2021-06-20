@@ -32,16 +32,16 @@ for location in locations:
 
         if (arguments[1].startswith("P")):
             query['sparql'] =  "SELECT ?o1 WHERE { <http://www.wikidata.org/entity/"+arguments[0]+"> <http://www.wikidata.org/prop/direct/"+arguments[1]+"> ?o1 }"
-            # sparql.setQuery(query['sparql'])
-            # sparql.setReturnFormat(JSON)
-            # result = sparql.query().convert()
-            # query['answers'].append(result)
+            sparql.setQuery(query['sparql']+' limit 100')
+            sparql.setReturnFormat(JSON)
+            result = sparql.query().convert()
+            query['answers'].append(result)
         if (arguments[1].startswith("R")):
             query['sparql']  = "SELECT ?s1 WHERE { ?s1 <http://www.wikidata.org/prop/direct/"+arguments[1].replace("R","P")+"> <http://www.wikidata.org/entity/"+arguments[0]+">}"
-            # sparql.setQuery(query['sparql'])
-            # sparql.setReturnFormat(JSON)
-            # result = sparql.query().convert()
-            # query['answers'].append(result)
+            sparql.setQuery(query['sparql']+' limit 100')
+            sparql.setReturnFormat(JSON)
+            result = sparql.query().convert()
+            query['answers'].append(result)
         question['query'] = query
         data['questions'].append(question)
     with open('qald-format/'+location.replace('.txt','.json'), 'w') as outfile:
